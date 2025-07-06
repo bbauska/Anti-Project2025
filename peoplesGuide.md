@@ -1,12 +1,12 @@
-The People's Guide to Project 2025
-A project by **Democracy Forward** 
-**\|** June 2024
-Breaking down the far-right playbook to take our country
-**backward**
+<h1>The People's Guide to Project 2025</h1>
+<h5>A project by **Democracy Forward** **\|** June 2024</h5>
+<h5>Breaking down the far-right playbook<br>
+to take our country **backward**</h5>
 
-Project 2025 is among the most **profound threats** to the American people.
+<h2>Project 2025 is among the most **profound threats**<br>
+to the American people.</h2>
 
-> **What is Project 2025?**
+<h5>**What is Project 2025?**</h5>
 >
 <!-- > ![](./images/image004.png){width="1.9in" height="7.1in"} -->
 > The Project 2025 Presidential Transition Project is a well-funded
@@ -16,57 +16,55 @@ Project 2025 is among the most **profound threats** to the American people.
 > for working people, dismantle social safety net programs, reverse
 > decades of progress for civil rights, redefine the way our society
 > operates, and undermine our economy.
->
+
 > A central pillar of Project 2025 is the"Mandate for Leadership," a
 > 900+ page policy playbook authored by former Trump administration
 > officials and other extremists that provides a radical vision for our
 > nation and a roadmap to implement it.
->
-> **We read Project 2025's entire 900+ page "Mandate for Leadership" so
-> that you don't have to.**
 
-What we discovered was a systemic, ruthless plan to undermine the
+<p><b>We read Project 2025's entire 900+ page "Mandate for Leadership" so
+that you don't have to.</b></p>
+
+<p>What we discovered was a systemic, ruthless plan to undermine the
 quality of life of millions of Americans, remove critical protections
 and dismantle programs for communities across the nation, and prioritize
-special interests and ideological extremism over people.
-
-From attacking overtime pay, student loans, and reproductive rights, to
+special interests and ideological extremism over people.</p>
+<p>From attacking overtime pay, student loans, and reproductive rights, to
 allowing more discrimination, pollution, and price gouging, those behind
 Project 2025 are preparing to go to incredible lengths to create a
-country only for some, not for all of us.
-
-If these plans are enacted, even without congressional approval, **4.3
+country only for some, not for all of us.</p>
+<p>If these plans are enacted, even without congressional approval, **4.3
 million people** could lose overtime protections, **40 million people**
 could have their food assistance reduced, **220,000 American jobs**
 could be lost, and much, much, more. The stakes are higher than ever for
-democracy and for people.
+democracy and for people.</p>
 
-> **These threats aren't hypothetical. These are their real plans.**
+<p><b>These threats aren't hypothetical. These are their real plans.</b></p>
 
 <!-- ![](./images/image005.png){width="7.5in" height="4.62in"}-->
-The Heritage Foundation and the 100+ organizations that make up the Project
+<p>The Heritage Foundation and the 100+ organizations that make up the Project
 2025 Advisory Board have mapped out exactly how they will achieve their
 extreme ends. They aim to carry out many of the most troubling proposals
 through an anti-democratic president and political loyalists installed
 in the executive branch, without waiting for congressional action. And,
 while many of these plans are unlawful, winning in court is not
 guaranteed given that the same far-right movement that is behind Project
-2025 has shaped our current court system.
+2025 has shaped our current court system.</p>
 
-> **To combat the threats posed by Project 2025, we have to first
-> understand them.**
+<p><b>To combat the threats posed by Project 2025, we have to first
+understand them.</b></p>
 
-What follows are some of the most dangerous proposals that make up
+<p>What follows are some of the most dangerous proposals that make up
 Project 2025, specifically those that could be implemented through
-federal agencies and a farright executive branch.
+federal agencies and a farright executive branch.</p>
 
-> The majority of Americans share the same values and priorities, but
-> Project 2025 wants to push an extreme, out-of-touch agenda on all of
-> us. **By reading this guide and sharing it, we can begin to address
-> these threats and go on offense towards building a bold, inclusive
-> democracy for all people.**
->
-> **Project 2025 Snapshot**
+<p>The majority of Americans share the same values and priorities, but
+Project 2025 wants to push an extreme, out-of-touch agenda on all of
+us. <b>By reading this guide and sharing it, we can begin to address
+these threats and go on offense towards building a bold, inclusive
+democracy for all people.</b></p>
+
+**Project 2025 Snapshot**
 
 Proposals from Project 2025, discussed in detail throughout this guide,
 that could be implemented through executive branch action alone --- so
