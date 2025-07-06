@@ -1,22 +1,15 @@
-The
-People's
-Guide to
-Project 2025
-A project by
-**Democracy Forward**
-**\|**
-June 2024
-Breaking down the far-right playbook
-to take our country
+The People's Guide to Project 2025
+A project by **Democracy Forward** 
+**\|** June 2024
+Breaking down the far-right playbook to take our country
 **backward**
-.
-Project 2025 is among the most **profound threats** to the American
-people.
+
+Project 2025 is among the most **profound threats** to the American people.
 
 > **What is Project 2025?**
 >
-> ![](./images/image004.png){width="1.9in" height="7.1in"}The
-> Project 2025 Presidential Transition Project is a well-funded
+<!-- > ![](./images/image004.png){width="1.9in" height="7.1in"} -->
+> The Project 2025 Presidential Transition Project is a well-funded
 > (eight-figure) effort of the Heritage Foundation and more than 100
 > organizations to enable a future anti-democratic presidential
 > administration to take swift, far-right action that would cut wages
@@ -50,8 +43,8 @@ democracy and for people.
 
 > **These threats aren't hypothetical. These are their real plans.**
 
-![](./images/image005.png){width="7.5in" height="4.62in"}The
-Heritage Foundation and the 100+ organizations that make up the Project
+<!-- ![](./images/image005.png){width="7.5in" height="4.62in"}-->
+The Heritage Foundation and the 100+ organizations that make up the Project
 2025 Advisory Board have mapped out exactly how they will achieve their
 extreme ends. They aim to carry out many of the most troubling proposals
 through an anti-democratic president and political loyalists installed
@@ -105,11 +98,8 @@ program, which serves over **Stop efforts** to
 > Advantage and **other worse, private**
 
 4.3 million **options,** that's
-
 workers 33 million people
-
 **Restrict** access to medication abortion Expose the 368,000
-
 **Deny students** in 25 states and children
 
 > Washington, D.C. access to student loans
@@ -120,67 +110,46 @@ workers 33 million people
 
 Contents:
 
-> ![](./images/image006.png){width="5.776666666666666in"
-> height="3.026666666666667in"}**Here's what's under attack**
-
+<!-- > ![](./images/image006.png){width="5.776666666666666in" height="3.026666666666667in"}-->
+**Here's what's under attack**
 **[Cut Wages, Create Unsafe Workplaces,]**
-
 **[and Destabilize Our Economy]** 06
-
 **[Make It Harder for Americans to Make Ends Meet]** 11
-
 **[Restrict Reproductive Rights and Access to Healthcare]**
 17
 
 **[Enable Discrimination Across Society]** 24
-
 **[Set Polluters Loose and Undo Climate Action]** 31
-
 **[Make Education Unaffordable and Unwelcoming]** 36
-
 **[Undermine Government's Ability to Deliver for People]**
 41
 
 democracyforward.org
-
 Cut Wages,
-
 Create Unsafe
-
 Workplaces,
-
 and Destabilize
-
 Our Economy
 
 **Their proposals will:**
 
 democracyforward.org
-
 Destabilize Our Economy
-
 Project 2025 would enable
 
 corporations
 
 to cut overtime
-
 pay, relax worker safety
-
 rules, allow workplace
-
 discrimination
-
 , and more.
 
 **How they'd do it:**
 
 Stop people from earning overtime pay.
-
 Project 2025
-
 wants the Department of Labor to make it harder for
-
 people to earn overtime pay.
 
 **1**
@@ -401,8 +370,8 @@ targeted assistance to lowincome children as an important method to
 bridge inequities and ensure that all children receive a solid
 foundation as they embark on their educational journey.
 
-![](./images/image010.png){width="4.06in"
-height="3.6233333333333335in"}Project 2025 proposes to eliminate the
+<!-- ![](./images/image010.png){width="4.06in" height="3.6233333333333335in"}-->
+Project 2025 proposes to eliminate the
 program. Without Head Start, families who are already struggling
 financially could experience even greater economic burdens as they would
 have to spend more on childcare and education.
@@ -448,8 +417,9 @@ market conditions. This means that while some years a farmer may be
 doing great, the next they could be on the brink of economic failure.
 That's where safety nets come in.
 
-![](./images/image011.png){width="2.4266666666666667in"
-height="3.2333333333333334in"}Project 2025 wants to restrict safety nets
+<!--![](./images/image011.png){width="2.4266666666666667in"
+height="3.2333333333333334in"}-->
+Project 2025 wants to restrict safety nets
 for farmers to 'unusual situations' --- even though we know that the
 difficult conditions farmers experience are not unusual but common. A
 restriction of assistance to farmers would disparately impact low-income
@@ -481,8 +451,8 @@ for awarding
 [**[billions]**](https://www.transit.dot.gov/funding/grants/fact-sheet-capital-investment-grants-program)
 of dollars for key public transportation projects across the country.
 
-![](./images/image012.png){width="7.5033344269466316in"
-height="6.223333333333334in"}Project 2025 wants to eliminate CIG, which
+<!-- ![](./images/image012.png){width="7.5033344269466316in" height="6.223333333333334in"}-->
+Project 2025 wants to eliminate CIG, which
 could make it much harder for Americans without cars to get to work and
 travel around town --- to work or just to be with family and friends.
 
@@ -522,9 +492,8 @@ Medicare's new ability to negotiate lower prescription drug prices for
 seniors, established through the Inflation Reduction Act (IRA), will be
 transformative for millions of seniors in the United States.
 
-![](./images/image014.png){width="2.88in"
-height="6.4233344269466315in"}[**[According
-to]**](https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/)
+<!-- ![](./images/image014.png){width="2.88in" height="6.4233344269466315in"} -->
+[**[According to]**](https://www.americanprogress.org/article/5-facts-to-know-about-medicare-drug-price-negotiation/)
 the Center for American Progress, these negotiations are targeting some
 of the most expensive drugs frequently used by seniors, saving hundreds
 of thousands of dollars in drug costs each year. These negotiations are
