@@ -1,4 +1,5 @@
 <h1>Science vs Project 2025</h1>
+<h2>One Person's Response to Project 2025</h2>
 <h2>None of DOGE's cuts were legitimate. NONE. It is all a lie. The government has the same
 employment rate as they did in 1975. 2.5 million then, 2.5 million now. So cuts are much worse
 than at any time in history. For the rich tax cuts is why.</h2>
