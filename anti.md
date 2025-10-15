@@ -7,25 +7,26 @@ Security and Medicare as we know it, and control the rest of our lives.</p>
 
 <h2>Project 2025</h2>
 <h3>Table of Contents</h3>
-Executive Summary................................................................................ 2
-Consolidating Presidential Power ................................................................ 7
-Justice System and Law Enforcement ............................................................. 27
-Health and Human Services ...................................................................... 32
-Labor .......................................................................................... 48
-Education and Child Care ....................................................................... 56
-Agriculture and Nutrition ...................................................................... 69
-Homeland Security .............................................................................. 70
-Military and Defense ........................................................................... 79
-Foreign Affairs ................................................................................ 87
-Environment .................................................................................... 95
-Commerce ...................................................................................... 101
-Treasury ...................................................................................... 109
-Financial Regulation .......................................................................... 117
-Housing and Urban Development ................................................................. 119
-Transportation and Infrastructure ............................................................. 123
-Elections ..................................................................................... 128
-Culture War ................................................................................... 129
-
+<ul>
+  <li>Executive Summary................................................................................ 2</li>
+  <li>Consolidating Presidential Power ................................................................ 7</li>
+  <li>Justice System and Law Enforcement ............................................................. 27</li>
+  <li>Health and Human Services ...................................................................... 32</li>
+  <li>Labor .......................................................................................... 48</li>
+  <li>Education and Child Care ....................................................................... 56</li>
+  <li>Agriculture and Nutrition ...................................................................... 69</li>
+  <li>Homeland Security .............................................................................. 70</li>
+  <li>Military and Defense ........................................................................... 79</li>
+  <li>Foreign Affairs ................................................................................ 87</li>
+  <li>Environment .................................................................................... 95</li>
+  <li>Commerce ...................................................................................... 101</li>
+  <li>Treasury ...................................................................................... 109</li>
+  <li>Financial Regulation .......................................................................... 117</li>
+  <li>Housing and Urban Development ................................................................. 119</li>
+  <li>Transportation and Infrastructure ............................................................. 123</li>
+  <li>Elections ..................................................................................... 128</li>
+  <li>Culture War ................................................................................... 129</li>
+</ul>
 <h2>Executive Summary</h2>
 <p>The 2025 Presidential Transition Project, also known as Project 2025, is a detailed plan for Trump and
 MAGA Republicans to gut checks and balances, take over the government, and impose their agenda.
@@ -35,6 +36,7 @@ term, Trump would have everything he needs to enact a radical MAGA takeover. Tru
 will imbue Trump and his inner circle with unprecedented control over our lives.</p>
 <h3>Components of Project 2025</h3>
 <p>Project 2025 declares it “paves the way for an effective conservative administration based on four pillars.”</p>
+
 <ol>
 <li>(1) Policy Agenda: The 920-page “Mandate for Leadership” provides a detailed policy and
 personnel blueprint for the next president to weaponize, restructure, or abolish every federal
