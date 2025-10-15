@@ -1,11 +1,14 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>Subject-by-Subject Breakdown of Trump’s Project 2025</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that
 they can take over the government, impose their agenda, and control every American. They plan
 to use this unchecked power to ban abortion nationwide, sell out the middle class, end Social
 Security and Medicare as we know it, and control the rest of our lives.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Project 2025</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Table of Contents</h3>
 <ul>
   <li>Executive Summary................................................................................ 2</li>
@@ -27,32 +30,39 @@ Security and Medicare as we know it, and control the rest of our lives.</p>
   <li>Elections ..................................................................................... 128</li>
   <li>Culture War ................................................................................... 129</li>
 </ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Executive Summary</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The 2025 Presidential Transition Project, also known as Project 2025, is a detailed plan for Trump and
 MAGA Republicans to gut checks and balances, take over the government, and impose their agenda.
 Armed with Project 2025, infused with absolute immunity from the MAGA Supreme Court, and
 unrestrained by the checks and balances that safeguarded certain rights and freedoms during the first
 term, Trump would have everything he needs to enact a radical MAGA takeover. Trump’s Project 2025
 will imbue Trump and his inner circle with unprecedented control over our lives.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Components of Project 2025</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 declares it “paves the way for an effective conservative administration based on four pillars.”</p>
 
 <ol>
-<li>(1) Policy Agenda: The 920-page “Mandate for Leadership” provides a detailed policy and
+<li>(1) <b>Policy Agenda</b>: The 920-page “Mandate for Leadership” provides a detailed policy and
 personnel blueprint for the next president to weaponize, restructure, or abolish every federal
 agency.</li>
-<li>(2) Personnel Database: Collects thousands of resumes from MAGA loyalists to replace non-
+<li>(2) <b>Personnel Database</b>: Collects thousands of resumes from MAGA loyalists to replace non-
 partisan civil servants with political appointees that pass the MAGA loyalty test.</li>
-<li>(3) Administration Academy: private training center to shape and prepare MAGA loyalists to
+<li>(3) <b>Administration Academy</b>: private training center to shape and prepare MAGA loyalists to
 take over government positions and politicize the civil service.</li>
-<li>(4) 180-Days Playbook: Unpublished transition plan to immediately operationalize Project
+<li>(4) <b>180-Days Playbook</b>: Unpublished transition plan to immediately operationalize Project
 2025, including executive actions and personnel changes to carry out Trump’s promise of
 being “a dictator on Day 1.”</li>
 </ol>
+
 <p>The loyalty test questionnaire for Project 2025’s presidential personnel database and presidential
 administration academy questionnaire can be found here.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Principles of Project 2025</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In their own words, Project 2025 has four main goals to shape America’s future:</p>
 <ul>
   <li>● Restore the family as the centerpiece of American life and protect our children</li>
@@ -60,7 +70,9 @@ administration academy questionnaire can be found here.</p>
 <li>● Defend our nation’s sovereignty, border, and bounty against global threats</li>
 <li>● Secure God-given individual rights to live freely</li>
 </ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Summary of Policy Agenda</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Takes Over the Government to Assert Total Control</p>
 <ul>
   <li>● Guts Checks and Balances: Consolidated unchecked presidential power by purging the civil
@@ -86,7 +98,9 @@ congressionally-mandated spending.</li>
 give advice and consent on the president’s appointees and obstructs transparency,
 accountability and oversight.</li>
 </ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Threatens Personal Freedoms and Rights</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>● Slashes Reproductive Freedom in Every State: Criminalizes medication abortions
 nationwide, bans abortion pills, creates an “abortion surveillance” regime to monitor all
@@ -204,15 +218,16 @@ protections, and sell off federally protected public lands to the highest bidder
 disbands the Environmental Protection Agency, undermining clean air and water
 protections.</li>
 <ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Backers and Authors</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the concerted effort of former Trump officials, rightwing operatives, and dark money
 backers. That includes Russ Vought, a self-described Christian Nationalist who authored part of Project
 2025, served as Trump’s Director of the Office of Management and Budget (OMB), and was appointed by
 the Trump Campaign and the Republican National Committee (RNC) to serve as Policy Director of the
 Republican Platform Committee.</p>
 
-
-The entire leadership team of Project 2025 served in Trump’s White House, and most of its authors are
+<p>The entire leadership team of Project 2025 served in Trump’s White House, and most of its authors are
 former Trump aides and officials who are likely to serve in any future potential Trump administration.
 Learn more about the key players behind the Project 2025 plan to “institutionalize Trumpism” here.
 Project 2025 is being organized by the Heritage Foundation. “The 2025 Presidential Transition
@@ -220,13 +235,14 @@ Project is being organized by The Heritage Foundation and builds off Heritage’
 for Leadership,’ which has been highly influential for presidential administrations since the Reagan era.
 Most recently, the Trump administration relied heavily on Heritage’s ‘Mandate’ for policy guidance,
 embracing nearly two-thirds of Heritage’s proposals within just one year in office.” [About, Project 2025,
-accessed 6/24/24]
-Paul Dans is the director of the 2025 Presidential Transition Project and Spencer Chretien serves
+accessed 6/24/24]</p>
+
+<p>Paul Dans is the director of the 2025 Presidential Transition Project and Spencer Chretien serves
 as associate director. “Paul Dans, former chief of staff at the Office of Personnel Management (OPM)
 during the Trump administration, serves as the director of the 2025 Presidential Transition Project.
 Spencer Chretien, former special assistant to the president and associate director of Presidential
 Personnel, serves as associate director of the project.” [About, Project 2025, accessed 6/24/24]
-The Advisory Board for Project 2025 includes:
+The Advisory Board for Project 2025 includes:</p>
 
 <div>
 <!-- ul { 
@@ -386,16 +402,18 @@ conservative president “to bend or break the bureaucracy to the presidential w
 a President today assumes office to find a sprawling federal bureaucracy that all too often is carrying out
 its own policy plans and preferences—or, worse yet, the policy plans and preferences of a radical,
 supposedly ‘woke’ faction of the country. The modern conservative President’s task is to limit, control,
-and direct the executive branch on behalf of the American people… The great challenge confronting a
-conservative President is the existential need for aggressive use of the vast powers of the executive
-branch to return power— including power currently held by the executive branch—to the American
-people. Success in meeting that challenge will require a rare combination of boldness and self-denial:
-boldness to bend or break the bureaucracy to the presidential will and self-denial to use the bureaucratic
-machine to send power away from Washington and back to America’s families, faith communities, local
-governments, and states. Fortunately, a President who is willing to lead will find in the Executive Office of
-the President (EOP) the levers necessary to reverse this trend and impose a sound direction for the
-nation on the federal bureaucracy.” [Central Personnel Agencies: Managing the Bureaucracy, pp. 43-44,
-accessed 6/24/24]</p>
+and direct the executive branch on behalf of the American people…</p>
+
+<p>The great challenge confronting a conservative President is the existential need for aggressive 
+use of the vast powers of the executive branch to return power— including power currently held by 
+the executive branch—to the American people. Success in meeting that challenge will require a rare 
+combination of boldness and self-denial: boldness to bend or break the bureaucracy to the 
+presidential will and self-denial to use the bureaucratic machine to send power away from 
+Washington and back to America’s families, faith communities, local governments, and states. 
+Fortunately, a President who is willing to lead will find in the Executive Office of the President 
+(EOP) the levers necessary to reverse this trend and impose a sound direction for the nation on the 
+federal bureaucracy.” [Central Personnel Agencies: Managing the Bureaucracy, pp. 43-44, accessed 
+6/24/24]</p>
 
 <h3>Schedule F</h3>
 <p>Project 2025 reinstates Trump’s Executive Order 13957, establishing Schedule F, which allows the
@@ -417,45 +435,45 @@ Bureaucracy, Project 2025, page 80]</p>
 <h3>Goals of Schedule F:</h3>
 <ul>
   <li>(1) Installs a limitless number of political appointees without expirations dates to work within the
-Executive Branch as covert operatives loyal to a person or ideology.</li>
+    Executive Branch as covert operatives loyal to a person or ideology.</li>
   <li>(2) Forces the transition of tens of thousands if not a million or more professional apolitical career
-federal employees into the same political appointment status without legitimate access to the
-Prohibited Personnel Practices (PPP) and the Merit Systems Principles (MSP) that keep
-government honest, transparent, accountable, and fair.</li>
+    federal employees into the same political appointment status without legitimate access to the
+    Prohibited Personnel Practices (PPP) and the Merit Systems Principles (MSP) that keep
+    government honest, transparent, accountable, and fair.</li>
   <li>(3) Allows the president to fire civil servants at will for political or ideological reasons.</li>
   <li>(4) Eliminates the competitive hiring process so that agencies can hire whomever they want for
-covered career positions. Project 2025 makes it clear that unquestioned loyalty to the president,
-as opposed to professionalism and expertise, is the only real qualification that matters.</li>
+    covered career positions. Project 2025 makes it clear that unquestioned loyalty to the president,
+    as opposed to professionalism and expertise, is the only real qualification that matters.</li>
   <li>(5) Slashes protections for professional career federal employees threats, intimidation or political
-pressure.</li>
+    pressure.</li>
   <li>(6) Effectively nullifies the capability and duty of career federal employees to enforce the law or
-report fraud, waste, abuse, political overreach, or illegal orders.</li>
+    report fraud, waste, abuse, political overreach, or illegal orders.</li>
 </ul>
 
 <h3>Impact of Schedule F:</h3>
 <ul>
-  <li>● Undermine the ability of public servants to impartially and effectively carry out services that are
-critical to national security, economic stability and public safety.</li>
+  <li>● Undermine the ability of public servants to impartially and effectively carry out services 
+    that are critical to national security, economic stability and public safety.</li>
   <li>● Eliminates a critical barrier to limiting the implementation of Project 2025’s most egregious
-recommendations – the independent professional bureaucracy – making it more likely that a
-president could do such things as target political opponents or use government powers to reward
-friends. In many ways, Schedule F is the linchpin to Project 2025.</li>
+    recommendations – the independent professional bureaucracy – making it more likely that a
+	president could do such things as target political opponents or use government powers to reward
+	friends. In many ways, Schedule F is the linchpin to Project 2025.</li>
   <li>● Politicize the civil service and eliminate jobs for purely political reasons for as many as 500,000
-federal workers while blocking Congress or anyone else from doing anything to stop it. “Everett
-Kelley, national president of the American Federation of Government Employees, which is the
-largest union representing federal and D.C. government workers. ‘Our union members are very
-worried about that.’ Kelley estimates closer to 500,000 federal workers nationwide could be at risk
-of losing their job for political reasons if Trump is elected and enacts the plan by executive order,
-which means there is nothing Congress, or anyone else could do, to stop it.” [WUSA9, 7/15/2024]
-Additional Plans to Fire Civil Servants and Hire Political Loyalists
-Project 2025 proposes a variety of tools, in addition to Schedule F, that would result in civil
-servants being fired or laid off. Below are some tactics a far-right administration would employ to
-implement this agenda.</li>
-  <li>● The Heritage Foundation has funded an initiative to create and possibly publish a list of
-civil servants who do not politically align with a far-right administration to potentially fire
-immediately, making it easier for extremists to carry out plans listed in Project 2025.
-["Conservative-backed group is creating a list of federal workers it suspects could resist Trump
-plans,” AP News]</li>
+    federal workers while blocking Congress or anyone else from doing anything to stop it. “Everett
+    Kelley, national president of the American Federation of Government Employees, which is the
+    largest union representing federal and D.C. government workers. ‘Our union members are very
+    worried about that.’ Kelley estimates closer to 500,000 federal workers nationwide could be at risk
+    of losing their job for political reasons if Trump is elected and enacts the plan by executive order,
+    which means there is nothing Congress, or anyone else could do, to stop it.” [WUSA9, 7/15/2024]
+    Additional Plans to Fire Civil Servants and Hire Political Loyalists
+    Project 2025 proposes a variety of tools, in addition to Schedule F, that would result in civil
+    servants being fired or laid off. Below are some tactics a far-right administration would employ to
+    implement this agenda.</li>
+  <li>● The Heritage Foundation has funded an initiative to create and possibly publish a list of 
+    civil servants who do not politically align with a far-right administration to potentially fire
+    immediately, making it easier for extremists to carry out plans listed in Project 2025.
+    ["Conservative-backed group is creating a list of federal workers it suspects could resist Trump
+    plans,” AP News]</li>
   <li>● Project 2025 outlines how a far-right administration would relocate federal agencies to
 new locations outside of Washington, D.C. to cut the federal workforce and/or replace civil
 servants. The Trump administration moved the National Institute of Food and Agriculture and the
@@ -721,21 +739,21 @@ fertility awareness and holistic family planning and a Deputy Assistant Secretar
 that understands the program and is able to work within its legislative framework (ideally, an MD). In
 addition, the Office of Population Affairs should eliminate religious discrimination in grant selections and
 guarantee the right of conscience and religious freedom of health care workers and participants in the
-Title X program.
+Title X program.</p>
 
-In 2021, HHS reversed a Trump Administration regulation that required grant- ees to maintain strict
+<p>In 2021, HHS reversed a Trump Administration regulation that required grant- ees to maintain strict
 physical and financial separation between Title X activity and abortion-related activity.76 Under the Biden
 Administration’s regulation,77 Title X activity can be conducted alongside abortion activity without strict
 physical and financial separation. The regulation also requires grantees to refer for abortions despite
 sincere moral or religious objections. This effectively bans otherwise qualified pro-life grantees from
-participating in the program.
+participating in the program.</p>
 
-HHS should rescind the Biden Administration’s regulation and reinstate the Trump Administration
+<p>HHS should rescind the Biden Administration’s regulation and reinstate the Trump Administration
 regulation for the program. It should also do this quickly (the Biden Administration completed its
 regulatory process and issued a final rule in less than nine months) and expand the potential grantee
-population beyond abortion providers like Planned Parenthood.
+population beyond abortion providers like Planned Parenthood.</p>
 
-Congress should complement these efforts by passing legislation such as the Title X Abortion Provider
+<p>Congress should complement these efforts by passing legislation such as the Title X Abortion Provider
 Prohibition Act,78 which would prohibit family planning grants from going to entities that perform abortions
 or provide funding to other entities that perform abortions. This would help to protect the integrity of the
 Title X program even under an abortion-friendly Administration.” [Department of Health and Human
@@ -987,12 +1005,14 @@ and federal courts. The OCR at DOJ should be able to enforce only through litiga
 </ul>
 
 <h3>Department of Justice:</h3>
+
 <li>● Limits the independence of the Department of Justice and Federal Bureau of Investigation to
 politicize law enforcement and weaponize the justice system to serve only the will of the president
 and the Project 2025 administration.</li>
 </ul>
 
 <h3>Department of Health and Human Services:</h3>
+
 <ul>● Remakes the entire agency so that a Project 2025 Administration can unilaterally advance its
 radical priorities:</li>
 <li>○ “HHS should return to being known as the Department of Life by explicitly rejecting the
@@ -1023,7 +1043,9 @@ abortion. Moreover, abortion should be clearly defined as only those procedures 
 intentionally end an unborn child’s life. Miscarriage management or standard ectopic
 pregnancy treatments should never be conflated with abortion.”</li>
 </ul>
+
 <h3>Department of Labor:</h3>
+<ul>
 <li>● Project 2025 aims to fill the ranks of DOL with loyalists. “Maximize hiring of political
 appointees. At its best, the Trump Administration Department of Labor worked with up to 150
 political appointees. That is still a tiny percentage of the department. The number of political
@@ -1068,6 +1090,7 @@ to allocate additional political appointee positions to the Census Bureau.”</l
 </ul>
 
 <h3>Department of Homeland Security:</h3>
+<ul>
 <li>● Dismantles much of the existing agency, privatizes the TSA, removes all DHS unions, and
 circumvents Senate confirmation proceedings for top political officials:.</li>
 <li>○ “Our primary recommendation is that the President pursue legislation to dismantle the
@@ -1097,10 +1120,7 @@ Official Performing the Duties of the Commissioner of CBP while that person is g
 through the confirmation process to direct ICE or become the Secretary). This approach
 would both guarantee implementation of the Day One agenda and equip the department
 for potential emergency situations while still honoring the confirmation requirement.”</li>
-
-Project 2025 (page 136).
-○
-Recommends restructuring and redistributing career personnel in the department:
+  <li>○ Recommends restructuring and redistributing career personnel in the department:
 “Restructuring and Redistribution of Career Personnel. To strengthen political decision-
 making and ensure that taxpayer dollars are being used legally and efficiently, the
 Secretary should make major changes in the distribution of career personnel throughout
@@ -1108,7 +1128,8 @@ the department. For example, personnel from parts of the department undergoing s
 closure could be redistributed to what will be workload-intensive corners of the
 department, including national security–critical and transparency functions. All personnel
 with law enforcement capacity should be removed immediately from office billets and
-deployed to field billets to maximize law enforcement capacity.” Project 2025 (page 137)
+deployed to field billets to maximize law enforcement capacity.” Project 2025 (page 137)</li>
+</ul>
 
 <h3>Department of Veterans Affairs:</h3>
 <ul>
@@ -1120,7 +1141,7 @@ holding employees accountable. This redundancy results in lengthy investigations
 coverage, and an overall ineffective method of employee and supervisor accountability.”
 Environmental Protection Agency:</li>
 <li>● Disbands multiple parts of the EPA, including Office of Environmental Justice and External Civil
-Rights, Office of Enforcement and Compliance Assistance. [
+Rights, Office of Enforcement and Compliance Assistance.</li>
 <li>○ Makes the drastic reduction of the EPA’s size and scope, with a focus on “compliance
 over enforcement” a topline priority.</li>
 <li>○ Downsizes and dismantles key programs that protect public health and the environment,
@@ -1453,7 +1474,9 @@ confirmation processes proceeds.” Project 2025 (page 423).</li>
 </ul>
 
 <h3>Justice System and Law Enforcement</h3>
+
 <h4>Top Lines</h4>
+
 <ul>
 <li>✔ Limits DOJ’s independence, such as by requiring the dismissal of any investigations,
 prosecutions, or cases that are deemed contrary to “Administration policies.”</li>
@@ -6977,18 +7000,18 @@ Center for Renewing America’s top priorities for a second Trump administration
 list of top priorities for CRA in a second Trump term. ‘Christian nationalism’ is one of the bullet points.”
 [Politico, 2/20/24]
 
-Vought has close ties to Christian nationalist William Wolfe, who has advocated for overturning
+<p>Vought has close ties to Christian nationalist William Wolfe, who has advocated for overturning
 same-sex marriage, ending abortion, and reducing access to contraceptives. “Vought has a close
 affiliation with Christian nationalist William Wolfe, a former Trump administration official who has
 advocated for overturning same-sex marriage, ending abortion and reducing access to contraceptives.”
-[Politico, 2/20/24]
+[Politico, 2/20/24]</p>
 
-Project 2025 centers religion and marriage as the building blocks of a healthy society. “On what
+<p>Project 2025 centers religion and marriage as the building blocks of a healthy society. “On what
 makes a good society: ‘These are the mediating institutions that serve as the building blocks of any
 healthy society. Marriage. Family. Work. Church. School. Volunteering.’” [Foreword, Project 2025,
-accessed 7/17/24]
+accessed 7/17/24]</p>
 
-Project 2025 integrates and Prioritizes Faith Based Initiatives into “all of the Agency’s programs”.
+<p>Project 2025 integrates and Prioritizes Faith Based Initiatives into “all of the Agency’s programs”.
 “The next conservative Administration must champion the core American value of religious freedom,
 which correlates significantly with poverty reduction, economic growth, and peace. It should train all
 USAID staff on the connection between religious freedom and development; integrate it into all of the
@@ -6996,4 +7019,4 @@ agency’s programs,including the five-year Country Development and Coordination
 updates in 2025; strengthen the missions’ relationships with local faith-based leaders; and build on local
 programs that are serving the poor. Congress should appropriate funding to USAID specifically to support
 persecuted religious minorities in line with Executive Order 13926. [Agency for International
-Development, Project 2025, page 262]
+Development, Project 2025, page 262]</p>
