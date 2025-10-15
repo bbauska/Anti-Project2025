@@ -4560,12 +4560,14 @@ defense. U.S. allies must play their part not only in dealing with China, but al
 from Russia, Iran, and North Korea. 1. Make burden-sharing a central part of U.S. defense strategy with
 the United States not just helping allies to step up, but strongly encouraging them to do so.” [Department
 of Defense, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the transformation of NATO so “that U.S. allies are capable of fielding the
 great majority of the conventional forces required to deter Russia while relying on the United
 States primarily for our nuclear deterrent.” “Transform NATO so that U.S. allies are capable of fielding
 the great majority of the conventional forces required to deter Russia while relying on the United States
 primarily for our nuclear deterrent, and select other capabilities while reducing the U.S. force posture in
 Europe.” [Department of Defense, Project 2025, accessed 6/24/24]
+
 Project 2025 wants the U.S. to increase their foreign military sales. “The United States must regain
 its role as the ‘Arsenal of Democracy.’ In fiscal year (FY) 2021, U.S. government foreign military sales
 (FMS) nosedived to a low of $34.8 billion from a record high of $55.7 billion in FY 2018.8 This decrease
@@ -4579,6 +4581,7 @@ U.S. defense systems, thereby expanding our ‘defense ecosystem.’ We must rev
 FMS to ensure both that our partners remain interoperable with the United States and that our defense
 industrial base regains much-needed capacity in preparation for future challenges.” [Department of
 Defense, Project 2025, accessed 6/24/24]
+
 Project 2025 urged the next president to “must significantly reorient the U.S. government’s
 posture toward friends and adversaries alike” which “could represent the most significant shift in
 core foreign policy principles and corresponding action since the end of the Cold War.” “That said,
@@ -4587,37 +4590,41 @@ adversaries alike—which will include much more honest assessments about who ar
 not. This reorientation could represent the most significant shift in core foreign policy principles and
 corresponding action since the end of the Cold War.” [Department of State, Project 2025, accessed
 6/24/24]
+
 Project 2025: “At stake after 2024 will be examining the status of the Wales Pledge of 2 percent of
 gross domestic product toward defense by NATO members. The new Administration will also
 want to encourage nations to exceed that pledge.” “First, the Europe, Eurasia, and Russia region is
 made up of relatively wealthy and technologically advanced societies that should be expected to bear a
 fair share of both security needs and global security architecture: The United States cannot be expected
-
-87
 to provide a defense umbrella for countries unwilling to contribute appropriately. At stake after 2024 will
 be examining the status of the Wales Pledge of 2 percent of gross domestic product toward defense by
 NATO members. The new Administration will also want to encourage nations to exceed that pledge.”
 [Department of State, Project 2025, accessed 6/24/24]
-USCYBERCOM
+
+<h3>USCYBERCOM</h3>
+
 Project 2025 called for the elimination of USCYBERCOM’s efforts to protect U.S. elections from
 bad actors in cyberspace including foreign actors. “End USCYBERCOM’s participation in federal
 efforts to ‘fortify’ U.S. elections to eliminate the perception that DOD is engaging in partisan politics.”
 [Department of Defense, Project 2025, accessed 6/24/24]
-Foreign Affairs
-Toplines
+
+<h3>Foreign Affairs</h3>
+<h3>Toplines</h3>
 ✔ Withdraws from treaties and alliances, including NATO.
 ✔ Re-implements the “Remain in Mexico” policy.
 ✔ Guts humanitarian aid for countries in need.
 ✔ Eliminates the Export-Import Bank, or reduces its efficacy.
 ✔ Ends economic engagement with China and imposes drastic tariffs.
-Countries of Interest
+
+<h3>Countries of Interest</h3>
 Project 2025 recommended focusing most on: China, Iran, Venezuela, Russia, and North Korea. “In
 a world on fire, a handful of nations require heightened attention. Some represent existential threats to
 the safety and security of the American people; others threaten to hurt the U.S. economy; and others are
 wild cards, whose full threat scope is unknown but nevertheless unsettling. The five countries on which
 the next Administration should focus its attention and energy are China, Iran, Venezuela, Russia, and
 North Korea.” [Department of State, Project 2025, accessed 6/24/24]
-Personnel
+
+<h3>Personnel</h3>
 Project 2025 on the State Department: “The next Administration must take swift and decisive
 steps to reforge the department into a lean and functional diplomatic machine that serves the and,
 thereby, the American people.” “The American people need and deserve a diplomatic machine fully
@@ -4625,22 +4632,23 @@ focused on the national interest as defined through the election of a President 
 international agenda for the nation. The next Administration must take swift and decisive steps to reforge
 the department into a lean and functional diplomatic machine that serves the and, thereby, the American
 people.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “The next President can make the State Department more effective by providing a
 clear foreign policy vision, selecting political officials and career diplomats that will
 enthusiastically turn that vision into a policy agenda, and firmly supporting the State Department
 as it makes the necessary institutional adjustments.” [Department of State, Project 2025, accessed
 6/24/24]
+
 Project 2025 urged the next president to place their State appointees “directly into [their] roles,
 pending confirmation” – thereby circumventing the Senate confirmation process. “Exert Leverage
 During the Confirmation Process. Notwithstanding the challenges and slowness of the modern U.S.
 Senate confirmation process, the next President can exert leverage on the Senate if he or she is willing to
 place State Department appointees directly into those roles, pending confirmation. Doing so would both
 ensure that the department has immediate senior political leadership and would force the Senate to act
-
-88
 on nominees’ appointments instead of being allowed to engage in dilatory tactics that cripple the State
 Department’s functionality for weeks, months, or even years.” [Department of State, Project 2025,
 accessed 6/24/24]
+
 Project 2025 urged the placement of political appointees into positions that do not require Senate
 confirmation and urged increasing the number of political appointees. “Assert Leadership in the
 Appointment Process. The next Administration should assert leadership over, and guidance to, the State
@@ -4648,6 +4656,7 @@ Department by placing political appointees in positions that do not require Sena
 senior advisors, Principal Deputy Assistant Secretaries, and Deputy Assistant Secretaries. Given the
 department’s size, the next Administration should also increase the number of political appointees to
 manage it.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the next conservative administration to accept the resignations of all
 political ambassadors and review and reassess all career ambassadors as well. “Reboot
 Ambassadors Worldwide. All ambassadors are required to submit letters of resignation at the start of a
@@ -4657,6 +4666,7 @@ months or years into a new Administration.5 The next Administration must go furt
 accept the resignations of all political ambassadors and quickly review and reassess all career
 ambassadors. This review should commence well before the new Administration’s first day.” [Department
 of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “Political ambassadors with strong personal relationships with the President should
 be prioritized for key strategic posts such as Australia, Japan, the United Kingdom, the United
 Nations, and the North Atlantic Treaty Organization (NATO).” “Ambassadors in countries where U.S.
@@ -4669,6 +4679,7 @@ should be prioritized for key strategic posts such as Australia, Japan, the Unit
 Nations, and the North Atlantic Treaty Organization (NATO).” [Department of State, Project 2025,
 accessed 6/24/24]
 Treaties
+
 Project 2025: “Upon inauguration, the Secretary of State should order an immediate freeze on all
 efforts to implement unratified treaties and international agreements, allocation of resources,
 foreign assistance disbursements, domestic and international contracts and payments, hiring and
@@ -4682,16 +4693,16 @@ Administration’s policies. The quality of this review is more important than s
 department during this review should be an unwavering desire to prioritize the American people—
 including a recognition that the federal government must be a diligent steward of taxpayer dollars.”
 [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the “thorough review” and “likely jettisoning” of the Biden administration
 approving and enforcing treaties without Senate ratification. “At time of publication, the State
 Department is negotiating (or seeking to negotiate) large-scale, sovereignty-eroding agreements that
 could come at considerable economic and other costs to the American people. Although such
 agreements should be evaluated and approved as are treaties, the Biden Administration is likely to simply
-
-89
 call them ‘agreements.’ The Biden State Department not only approves but also enforces treaties that
 have not been ratified by the U.S. Senate. This practice must be thoroughly reviewed—and most likely
 jettisoned.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 urged the next president to “direct the Secretary of State to freeze any ongoing treaty
 or international agreement negotiations and assess whether those efforts align with the new
 President’s foreign policy direction.” “The next President should recalibrate how the State Department
@@ -4699,12 +4710,14 @@ handles treaties and agreements, primarily by restoring constitutionality to the
 should direct the Secretary of State to freeze any ongoing treaty or international agreement negotiations
 and assess whether those efforts align with the new President’s foreign policy direction.” [Department of
 State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the next administration to direct the “immediate stand-down on
 enforcement of any treaties that have not been ratified by the Senate.” “The next Administration
 should also direct the secretary to order an immediate stand-down on enforcement of any treaties that
 have not been ratified by the Senate, and order a thorough review of the degree to which such
 enforcement has impacted the department’s functions, policies, and use of resources.” [Department of
 State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for a review to identify “agreements” that were really treaties as understood by
 the Constitution, and suspend compliance pending Senate approval. “The Secretary of State, in
 cooperation with the Office of the Attorney General and the White House Counsel’s Office, should also
@@ -4712,6 +4725,7 @@ conduct a review to identify ‘agreements’ that are really treaty commitments
 meaning of the Constitution,6 and suspend compliance pending presidential transmittal of those
 agreements to the Senate for advice and consent.” [Department of State, Project 2025, accessed
 6/24/24]
+
 Project 2025 called for the next administration “to withdraw from treaties that have been under
 Senate consideration for 20 years or more.” “The next Administration should also move to withdraw
 from treaties that have been under Senate consideration for 20 years or more, with the understanding
@@ -4721,7 +4735,8 @@ updated for current circumstances. The Secretary of State must revoke most outst
 authorities that have been granted to other agencies during previous Administrations, although such
 revocations should be closely coordinated with the White House for logistical reasons.” [Department of
 State, Project 2025, accessed 6/24/24]
-Visas
+
+<h3>Visas</h3>
 Project 2025 called for mandatory visa reciprocity with other countries. “Visa reciprocity. The United
 States should strictly enforce the doctrine of reciprocity when issuing visas to all foreign nationals. For too
 long, the U.S. has provided virtually unfettered access to foreign nationals from countries that do not
@@ -4730,6 +4745,7 @@ reciprocity will convey the necessary reality that other countries do not have a
 access and must reciprocally offer favorable visa-based access to U.S. nationals. The State Department’s
 reaction time to other countries’ changes in visa policies with respect to the U.S. must be streamlined to
 ensure it can be updated in real time.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the full enforcement of section 243(d) of the INA to motivate countries to
 accept the return of nationals who were ordered to be removed from the U.S. Countries that do
 not comply would risk the suspension of all immigrant and nonimmigrant visas. “Section 243(d)
@@ -4745,6 +4761,7 @@ regular acceptance of its nationals. Blackletter implementation of this law will
 lacking seriousness to the international community that other nations must respect U.S. immigration laws
 and work with federal authorities to accept returning nationals—or lose access to the United States.”
 [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the reevaluation of the: Diversity Visa program, the F visa program, and J
 visa program. “Evaluation of national security–vulnerable visa programs. To protect the American
 people, the State Department, in coordination with the White House and other security-focused agencies,
@@ -4754,6 +4771,7 @@ visitor) visa program. The State Department’s evaluation must ensure that thes
 consistent with White House immigration policy, but also align with its national security obligations and
 resource limitations.” [Department of State, Project 2025, accessed 6/24/24]
 Refugees
+
 Project 2025 called for the U.S. Refugee Admission Program to be indefinitely curtailed until the
 border “crisis can be contained and refugee-focused screening and vetting capacity can
 reasonably be restored.” “The federal government’s obligation to shift national security–essential
@@ -4762,6 +4780,7 @@ number of USRAP refugee admissions. The State Department’s Bureau of Populatio
 Migration, which administers USRAP, must shift its resources to challenges stemming from the current
 immigration situation until the crisis can be contained and refugee-focused screening and vetting capacity
 can reasonably be restored.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the “reimplementation of the Remain in Mexico policy”, calling it a Day One
 priority. “Strengthening bilateral and multilateral immigration-focused agreements. Restoration of both
 domestic security and the integrity of the U.S. immigration system should start with rapid reactivation of
@@ -4771,7 +4790,8 @@ Mexican asylum applicants at the United States–Mexico border must be Day One p
 State Department must rein in the C-175 authorities of other agencies, the Department of Homeland
 Security should retain (or regain) C-175 authorities for negotiating bilateral and multilateral security
 agreements.” [Department of State, Project 2025, accessed 6/24/24]
-Fentanyl
+
+<h3>Fentanyl</h3>
 Project 2025 said the Western Hemisphere partners should work to stop the fentanyl crisis in the
 U.S. and Mexico. “A fentanyl-free frontier. The same cartels that parasitically run Mexico are also
 working with the PRC to fuel the largest drug crisis in the history of North America. These Mexican cartels
@@ -4782,6 +4802,7 @@ citizenry. The next Administration must leverage its new insistence on a soverei
 other Western Hemisphere partners to halt the fentanyl crisis and put a decisive end to this
 unprecedented public health threat.” [Department of State, Project 2025, accessed 6/24/24]
 Global Manufacturing and Supply Chains
+
 Project 2025 called for a shift in global manufacturing and industry from places far away (like
 China) and move them towards Central and South American countries. “First, the United States
 must do everything possible, with both resources and messaging, to shift global manufacturing and
@@ -4798,28 +4819,34 @@ and other countries to develop a hemisphere-focused energy policy that will redu
 and manipulable sources of fossil fuels, restore the free flow of energy among the hemisphere’s largest
 producers, and work together to increase energy production, including for nations that are looking for
 dramatic economic expansion.” [Department of State, Project 2025, accessed 6/24/24]
-Middle East
+
+<h3>Middle East</h3>
 Project 2025 urged the next administration to encourage “other Arab states, including Saudi
 Arabia, to enter the Abraham Accords.” “Second, the next Administration should build on the Trump
 Administration’s diplomatic successes by encouraging other Arab states, including Saudi Arabia, to enter
 the Abraham Accords.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the reversal of the Biden administration’s “degradation of the long-
 standing partnership with Saudi Arabia.” “Related policies should include reversing, as appropriate,
 the Biden Administration’s degradation of the long-standing partnership with Saudi Arabia.” [Department
 of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “Relations with Saudi Arabia should be strengthened in a way that seriously curtails
 Chinese influence in Riyadh.” “For the foreseeable future— and much longer than one new
 Administration—Middle Eastern oil will play a key role in the world economy. Therefore, the U.S. must
 continue to support its allies and compete with its economic adversaries, including China. Relations with
 Saudi Arabia should be strengthened in a way that seriously curtails Chinese influence in Riyadh.”
 [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “The Palestinian Authority should be defunded.” [Department of State, Project 2025,
 accessed 6/24/24]
+
 Project 2025 identified keeping Turkey as a NATO ally as a “key priority.” “A further key priority is
 keeping Türkiye in the Western fold and a NATO ally. This includes a vigorous outreach to Türkiye to
 dissuade it from ‘hedging’ toward Russia or China, which is likely to require a rethinking of U.S. support
 for YPG/PKK [People’s Protection Units/Kurdistan Worker’s Party] Kurdish forces, which Ankara believes
 are an existential threat to its security.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “is in the U.S. national interest to build a Middle East security pact that includes
 Israel, Egypt, the Gulf states, and potentially India, as a second ‘Quad’ arrangement.” “Third, it is in
 the U.S. national interest to build a Middle East security pact that includes Israel, Egypt, the Gulf states,
@@ -4828,17 +4855,17 @@ the Red Sea/Suez Canal is vital to the world economy and therefore to U.S. prosp
 Africa, security cooperation with European allies, especially France, will be vital to limit growing Islamist
 threats and the incursion of Russian influence through positionings of the Wagner Group.” [Department of
 State, Project 2025, accessed 6/24/24]
-Sub-Saharan Africa
+
+<h3>Sub-Saharan Africa</h3>
 Project 2025: “African nations are particularly (and reasonably) non-receptive to the U.S. social
 policies such as abortion and pro-LGBT initiatives being imposed on them.” “Focus on core
 diplomatic activities, and stop promoting policies birthed in the American culture wars. African nations are
 particularly (and reasonably) non-receptive to the U.S. social policies such as abortion and pro-LGBT
-
-92
 initiatives being imposed on them. The United States should focus on core security, economic, and
 human rights engagement with African partners and reject the promotion of divisive policies that hurt the
 deepening of shared goals between the U.S. and its African partners.” [Department of State, Project
 2025, accessed 6/24/24]
+
 Project 2025 recommended moving away from only humanitarian aid and moving toward
 economic free market development in the country. “Shift strategic focus from assistance to growth.
 Reorient the focus of U.S. overseas development assistance away from stand-alone humanitarian
@@ -4848,6 +4875,7 @@ develop countries and can fuel corruption and violent conflict. While the United
 willing to offer emergency and humanitarian relief, both U.S. and African long-term interests are better
 served by a free market-based, private growth-focused strategy to Africa’s economic challenges.”
 [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended the prioritization of countering Chinese activity in Africa. “Counter
 malign Chinese activity on the continent. This should include the development of powerful public
 diplomacy efforts to counter Chinese influence campaigns with commitments to freedom of speech and
@@ -4857,14 +4885,18 @@ other hostile actors; the recognition of Somaliland statehood as a hedge against
 position in Djibouti; and a focus on supporting American companies involved in industries important to
 U.S. national interests or that have a competitive advantage in Africa.” [Department of State, Project
 2025, accessed 6/24/24]
+
 Project 2025: “The U.S. should support capable African military and security operations through
 the State Department and other federal agencies responsible for granting foreign military
 education, training, and security assistance.” [Department of State, Project 2025, accessed 6/24/24]
-Europe
+
+<h3>Europe</h3>
+
 Project 2025 argued it was in the national interest to “amplify” transatlantic trade since it lessened
 Europe’s dependence on China. “Second, transatlantic trade is a significant part of the global economy,
 and it is in the U.S. national interest to amplify it, especially because this means weaning Europe of its
 dependence on China.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended a comprehensive review between trade agreements between the U.S.
 and EU and urged development of trade deals between the post-Brexit UK. “However, there are also
 transatlantic trade tensions that disturb the U.S.–EU relationship and that have been evident across
@@ -4872,25 +4904,27 @@ Administrations. The U.S. must undertake a comprehensive review of trade arrange
 EU and the United States to assure that U.S. businesses are treated fairly and to build productive
 reciprocity. Outside the EU, trade with the post-Brexit U.K. needs urgent development before London
 slips back into the orbit of the EU.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 urged developing new EU allies, especially Central European countries. “Third, in the
 wake of Brexit, EU foreign policy now takes place without U.K. input, which disadvantages the United
 States, given that the U.K. has historically been aligned with many U.S. positions. Therefore, U.S.
 diplomacy must be more attentive to inner-EU developments, while also developing new allies inside the
 EU—especially the Central European countries on the eastern flank of the EU, which are most vulnerable
 to Russian aggression.” [Department of State, Project 2025, accessed 6/24/24]
-Arctic
+
+<h3>Arctic</h3>
 Project 2025: “The rate of melting ice during summer months has led to increased interest not
 only from shipping and tourism sectors, but also from America’s global competitors, who are
-
-93
 interested in exploiting the region’s strategic importance and accessing its bounty of natural
 resources.” “The United States has several strong interests in the Arctic region. The rate of melting ice
 during summer months has led to increased interest not only from shipping and tourism sectors, but also
 from America’s global competitors, who are interested in exploiting the region’s strategic importance and
 accessing its bounty of natural resources.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “The north star of U.S. Arctic policy should remain national sovereignty,
 safeguarded through robust capabilities as well as through diplomatic, economic, and legal
 attentiveness.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 called on NATO to “develop and implement an Arctic strategy that recognizes the
 importance of the region and ensures that Russian use of Arctic waters and resources does not
 exceed a reasonable footprint.” “The next Administration should embrace the view that NATO must
@@ -4900,17 +4934,20 @@ appreciate that the Arctic is a theater that it must defend, especially consider
 aggression against Ukraine. NATO must develop and implement an Arctic strategy that recognizes the
 importance of the region and ensures that Russian use of Arctic waters and resources does not exceed a
 reasonable footprint.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 argued economic freedom could “help to keep the Arctic stable and secure.” “The
 U.S. should unapologetically pursue American interests in the Arctic by promoting economic freedom in
 the region. Economic freedom spurs prosperity, innovation, respect for the rule of law, jobs, and
 sustainability. Most important, economic freedom can help to keep the Arctic stable and secure.”
 [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “The United States should work with like-minded Arctic nations, including Russia, to
 raise legitimate concerns about the PRC’s so-called Polar Silk-Road ambitions.” “The People’s
 Republic of China has declared itself a ‘near-Arctic state,’ which is an imaginary term non-existent in
 international discourse. The United States should work with like-minded Arctic nations, including Russia,
 to raise legitimate concerns about the PRC’s so-called Polar Silk-Road ambitions.” [Department of State,
 Project 2025, accessed 6/24/24]
+
 Project 2025 recommended that the next administration pursue policies that strengthen ties
 between the U.S. and Greenland. “Concerning Greenland, the opening of a U.S. consulate in Nuuk is
 welcome. A formal year-round diplomatic presence is an effective way for the U.S. to better understand
@@ -4918,7 +4955,9 @@ local political and economic dynamics. Furthermore, given Greenland’s geograph
 potential as a commercial and tourist location, the next Administration should pursue policies that
 enhance economic ties between the U.S. and Greenland.” [Department of State, Project 2025, accessed
 6/24/24]
-International Organizations
+
+<h3>International Organizations</h3>
+
 Project 2025 argued the U.S. should be prepared to withdraw from international organizations if
 they no longer promote American interests, as defined by the administration. “When such
 institutions act against U.S. interests, the United States must be prepared to take appropriate steps in
@@ -4930,10 +4969,9 @@ the United States should support it. If an international organization is ineffec
 American interests, the United States should not support it. Those that are effective will still require
 constant pressure from U.S. officials to ensure that they remain effective. Serious consideration should
 also be given to withdrawal from organizations that no longer have value, quietly undermine U.S. interests
-
-94
 or goals, or disproportionately rely on U.S. financial contributions to survive.” [Department of State,
 Project 2025, accessed 6/24/24]
+
 Project 2025 praised the Trump administration for withdrawing from or terminating funding for:
 The UN Human Rights Council, the UN Educational, Scientific and Cultural Organization, the UN
 Relief and Works Agency, and the WHO. “The Trump Administration’s ‘tough love’ approach to
@@ -4943,6 +4981,7 @@ Educational, Scientific and Cultural Organization, the United Nations Relief and
 WHO. The results were redeployment of taxpayer dollars to better uses—and other organizations ‘getting
 the message’ that the United States will not allow itself and its money to be used to undermine its own
 interests.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025 supported the Geneva Consensus Declaration on Women’s Health and Protection of
 the Family, which was a Trump administration-era effort to not support abortion. “It is paramount to
 create a healthy culture of respect for life, the family, sovereignty, and authentic human rights in
@@ -4953,6 +4992,7 @@ result was the Geneva Consensus Declaration on Women’s Health and Protection o
 U.S. foreign policy engagements that were produced and expanded under the Obama and Biden
 Administrations must be aligned with the Geneva Consensus Declaration and the work of the U.S.
 Commission on Unalienable Human Rights.” [Department of State, Project 2025, accessed 6/24/24]
+
 Project 2025: “The U.S. government should not and cannot promote or fund abortion in
 international programs or multilateral organizations.” “The U.S. government should not and cannot
 promote or fund abortion in international programs or multilateral organizations. Technically, the United
@@ -4960,8 +5000,8 @@ States can prevent its international funding from going toward abortions, but th
 impact by including like-minded nations and building on the coalition launched through the Geneva
 Consensus Declaration, with a view to shaping the work of international agencies by functioning as a
 united front.” [Department of State, Project 2025, accessed 6/24/24]
-●
-The U.S. joined other countries in the nonbinding international antiabortion declaration,
+
+● The U.S. joined other countries in the nonbinding international antiabortion declaration,
 with Pompeo saying there was “no international right to abortion.” “The United States joined
 Brazil, Egypt, Hungary, Indonesia and Uganda on Thursday to co-sponsor a nonbinding
 international antiabortion declaration, in a rebuke of United Nations human rights bodies that
@@ -4976,6 +5016,7 @@ affirming the family as ‘the natural and fundamental group unit of society’ 
 countries that restrict LGBT rights. Among the co-sponsors, the Egyptian government targets
 LGBT people in a ‘systematic fashion,’ according to a recent Human Rights Watch report, and in
 Uganda, gay sex is punishable by death.” [Washington Post, 10/22/20]
+
 Project 2025 argued WHO is “willing to support the suppression of basic human rights.” “The
 COVID-19 pandemic made it painfully clear that both international organizations—and some countries—
 are only too willing to trample human rights in the name of public health. For example, the WHO was, and
@@ -4983,8 +5024,7 @@ remains, willing to support the suppression of basic human rights, partially bec
 relationship with human rights abusers like the PRC.” [Department of State, Project 2025, accessed
 6/24/24]
 
-95
-Foreign Aid
+<h3>Foreign Aid</h3>
 Project 2025: USAID’s next administrator should also be the Director of Foreign Assistance and
 oversee all foreign assistance. “The next Administration should take steps to ensure that future foreign
 assistance clearly and unambiguously supports the President’s foreign policy agenda. For example, the
@@ -4994,27 +5034,31 @@ Assistance with the rank of Deputy Secretary and oversee all foreign assistance.
 briefly during the George W. Bush Administration before it was eliminated by the Obama Administration—
 would empower the dual-hatted official to better align and coordinate with the manifold foreign assistance
 programs across the federal government.” [Department of State, Project 2025, accessed 6/24/24]
-State Department
+
+<h3>State Department</h3>
 Project 2025 would freeze “all efforts to implement unratified treaties” and other foreign policy
 engagements “pending a political appointee-driven review” under a Republican Administration. Most
 saliently pertaining to climate, this would include the Paris Climate Agreement. [ch. 6, p. 174.] Retreating
 again from the Paris Climate Agreement would establish the United States as an unreliable partner,
 giving cover to countries like China to do less to cut their own emissions and fueling a vicious cycle of
 global greenhouse gas emissions.
-USAID
+
+<h3>USAID</h3>
 Consistent with other chapters, the plan’s USAID section characterizes current efforts to fight global
 climate change as “climate extremism” and a “war on fossil fuels,” and it proposes gutting USAID’s
 international affairs “150 account” and all programs related to international climate. These cuts would
 occur alongside elimination of programs addressing global gender equality and racism. [ch. 9, p. 254.]
-Export-Import Bank
+
+<h3>Export-Import Bank</h3>
 The chapter on EXIM contains many troubling proposals, but at its heart is a fundamental confusion over
 whether to keep the agency in existence at all. It provides two diametrically opposed essays—“The
 Export-Import Bank Should be Abolished” by Veronique de Rugy and “The Case for the Export-Import
 Bank” by Jennifer Hazelton—and does not resolve the differences. This indicates that the conservative
 authors and coalitions behind Project 2025 lack even a basic coherent vision for leading this agency or
 representing US business interests abroad.
-Environment
-Toplines
+
+<h3>Environment</h3>
+<h3>Toplines</h3>
 ✔ Slashes EPA’s capabilities and rescinds Biden-era protections
 ✔ Disbands Office of Environmental Justice and External Civil Rights
 ✔ Reverses the Good Neighbor Plan, which secured significant reductions in ozone-forming
@@ -5024,13 +5068,13 @@ emissions from power plants and industrial facilities
 ✔ Removes protections from national monuments and parks
 ✔ Puts wildlife at risk
 
-96
 Project 2025: “Those who suffer most from the policies environmentalism would have us enact
 are the aged, poor, and vulnerable.” “‘Cheap grace’ aptly describes the Left’s love affair with
 environmental extremism. Those who suffer most from the policies environmentalism would have us
 enact are the aged, poor, and vulnerable. It is not a political cause, but a pseudo-religion meant to baptize
 liberals’ ruthless pursuit of absolute power in the holy water of environmental virtue.” [Foreword, Project
 2025, accessed 6/24/24]
+
 Project 2025: “At its very heart, environmental extremism is decidedly anti-human.” “At its very
 heart, environmental extremism is decidedly anti-human. Stewardship and conservation are supplanted
 by population control and economic regression. Environmental ideologues would ban the fuels that run
@@ -5039,24 +5083,26 @@ human resilience and creativity in responding to the challenges of the future wo
 the most meaningful human activities. They would stand human affairs on their head, regarding human
 activity itself as fundamentally a threat to be sacrificed to the god of nature.” [Foreword, Project 2025,
 accessed 6/24/24]
+
 Project 2025 argued the U.S.’s oil and natural gas reserves “are not an environmental problem.”
 “The next conservative President should go beyond merely defending America’s energy interests but go
 on offense, asserting them around the world. America’s vast reserves of oil and natural gas are not an
 environmental problem; they are the lifeblood of economic growth. American dominance of the global
 energy market would be a good thing: for the world, and, more importantly, for ‘we the people.’”
 [Foreword, Project 2025, accessed 6/24/24]
-EPA
-CAP Analysis of Project 2025 on the EPA
+
+<h3>EPA</h3>
+<h3>CAP Analysis of Project 2025 on the EPA</h3>
 Day One Executive Order to slash EPA’s capabilities and weaken its rules
 Most broadly, the plan would downsize EPA by cutting the budget, staff and programs, and “pause and
 review” major rules and guidance that protect the environment and public health, in order to weaken
 those protections.
-Consequences:
-●
-Undermine the ability of EPA to safeguard human health and the environment, especially in
+
+<h3>Consequences:</h3>
+● Undermine the ability of EPA to safeguard human health and the environment, especially in
 communities with the highest levels of pollution and climate change threats.
-●
-End or weaken essential environmental and public health protections.
+
+● End or weaken essential environmental and public health protections.
 Disband the Office of Environmental Justice and External Civil Rights (OEJECR)
 The newly established OEJECR leads the agency’s environmental justice priorities and provides
 resources and technical assistance on civil rights and environmental justice, community engagement,
@@ -5064,181 +5110,191 @@ addressing environmental justice concerns, and support for community-led action.
 office would rid the EPA of services and expertise in alternative dispute resolution, environmental conflict
 resolution, consensus-building, and collaborative problem solving for EJ communities.
 Consequences:
-●
-Increases household energy and health care costs. Preventing the distribution of $2.7
+
+● Increases household energy and health care costs. Preventing the distribution of $2.7
 billion in IRA funding to tackle environmental injustices, and more than $50 million in
 grant funding for community-based organizations, will undermine efforts to clean up
 pollution in communities and increase energy and health care costs.
-●
-Kills jobs. Dissolving this new national office would upend 5 EJ offices and 200 jobs in
+
+● Kills jobs. Dissolving this new national office would upend 5 EJ offices and 200 jobs in
 EPA headquarters across 10 regions that have been dedicated to solving national
 environmental challenges.
-●
-Increases pollution and worsens climate, environmental, and public health risks in
+
+● Increases pollution and worsens climate, environmental, and public health risks in
 communities. The plan stops the nearly $3 billion for environmental and climate justice
 grants supporting community-led air pollution monitoring and prevention, as well as
-
-97
 efforts to protect communities from climate change and extreme weather, heat, and
 wildfires.
-●
-Undermines EPA’s ability to safeguard human health and the environment, especially in
+
+● Undermines EPA’s ability to safeguard human health and the environment, especially in
 communities with the highest levels of pollution and climate change threats. The plan
 prevents the OEJECR from coordinating and implementing environmental justice
 priorities and Justice40 across the agency, including reducing and cleaning up toxic
 pollution historically concentrated in communities of color and low-income areas.
-●
-Kneecaps enforcement of environmental regulations, community protections, and federal
+
+● Kneecaps enforcement of environmental regulations, community protections, and federal
 civil rights laws. The plan would pull the plug on technical assistance for and coordination
 of environmental justice and civil rights priorities, deny communities the ability to raise
 environmental justice concerns with EPA, and undercut enforcement of federal civil rights
 laws.
-Reverse the Good Neighbor Program’s 2022 expansion beyond power plants
+
+<h3>Reverse the Good Neighbor Program’s 2022 expansion beyond power plants</h3>
 The Good Neighbor Plan “secures significant reductions in ozone-forming emissions of nitrogen oxides
 from power plants and industrial facilities.” In the final rule, 20 states are covered for both fossil-fuel fired
 power plants and “other industrial stationary sources.” These “other industries” include basic chemical
 manufacturing, combustion engines in pipeline transportation of natural gas, kilns in cement production,
 boilers in iron and steel mills, and solid waste combustors and incinerators.
+
 Approximately 130 million Americans (40% of U.S. population) live within 50 km of non-power plant
 facilities, and the demographic make up of populations within 5-10 km is 6% higher for African Americans
 and 2-4% higher for people living in poverty. Reversing the inclusion of other industries would undo
 emissions reductions in the ozone season, annual nitrous oxide emissions, particulate matter, sulfur
 dioxide, and downwind pollution from industrial facilities, and prevent the reduction of legacy pollution in
 disadvantaged communities.
-Consequences:
-●
-Increases healthcare costs. Excluding other industries would reverse pollution compliance
+
+<h3>Consequences:</h3>
+● Increases healthcare costs. Excluding other industries would reverse pollution compliance
 benefits of up to $15 billion by 2026, and prevent net benefits of up to $200 billion between 2023
 and 2042.
-●
-Increases pollution and worsens environmental and public health risks to communities. The plan
+
+● Increases pollution and worsens environmental and public health risks to communities. The plan
 would prevent a 15% reduction in industrial nitrogen oxide (NOx) emissions, increase NOx
 emissions by 45,000 tons from other covered industrial sources, increase annual sulfur dioxide
 emissions by 29,000 tons, annual fine particle emissions by 1,000 tons, and annual carbon
 dioxide emissions by 16 million metric tons. Exclusion of other industries would also decrease
 visibility in national and state parks and protection for sensitive ecosystems, coastal waters and
 estuaries, and forests.
-●
-Increases mortality and disease. In 2026 alone, this proposal could cause 1,300 premature
+
+● Increases mortality and disease. In 2026 alone, this proposal could cause 1,300 premature
 deaths, more than 2,300 hospital and emergency room visits, and increase asthma cases by 1.3
 million.
-●
-Educational and economic impacts: the above increases in mortality and disease would cause an
+
+● Educational and economic impacts: the above increases in mortality and disease would cause an
 estimated 430,000 school absence days and 25,000 lost work days.
 Project 2025 calls for “Eliminating the stand-alone Office of Enforcement and Compliance
 Assistance”
+
 The OECA is charged with formal and informal enforcement of national initiatives that address serious
 noncompliance to national environmental laws. OECA has issued emergency orders to plants, refineries,
 and other entities for water system lead violations, work safety crimes, sulfur dioxide emissions and oil
 releases, chemical plant pollution, and improper hazardous waste disposal. Eliminating the OECA as a
 stand-alone office would undermine its crucial oversight and accountability work on behalf of impacted
 communities.
-Consequences:
-●
-Increases in consumer costs. The plan would prevent the disbursement of $45 billion in non-
+
+<h3>Consequences:</h3>
+● Increases in consumer costs. The plan would prevent the disbursement of $45 billion in non-
 federal dollars through EPA’s water infrastructure finance programs.
 
-98
-●
-Jobs killed. Past budget cuts have led to losses of 950 enforcement positions at EPA nationwide
+● Jobs killed. Past budget cuts have led to losses of 950 enforcement positions at EPA nationwide
 (30% of total OECA workforce), and eliminating OECA could undo the restoration of 200 of these
 positions in FY 2023.
-●
-Worsens climate change and local pollution. The plan would lead to a preventable 21% increase
+
+● Worsens climate change and local pollution. The plan would lead to a preventable 21% increase
 in ozone season emissions of nitrogen oxides from electric power generation, and a preventable
 release of 6 million metric tons of carbon dioxide equivalent without EPA pollution prevention
 grant funding, and worsen measured air quality by 10% in communities that don’t currently meet
 NAAQS.
-●
-Increases public health risks and environmental injustice in communities. Eliminating OECA could
+
+● Increases public health risks and environmental injustice in communities. Eliminating OECA could
 cause 2,250 lung cancer deaths annually from unabated radon exposure, block technical
 assistance to 2,203 Tribal, small, rural, or underserved communities for drinking water and waste
 treatment improvements. It would also prevent an increase in inspections in areas of EJ concern
 to 45% in fiscal year 2022, 50% in FYs 2023 and 2024, and 55% in FYs 2025 and 2026, prevent
 the initiation of 45 proactive post-award civil rights compliance reviews, and would exacerbate
 discrimination issues in environmentally overburdened and underserved communities.
+
 Project 2025 details “Immediate and consistent rejection of all EPA Office of Research and
 Development [ORD] and science activities that have not been authorized by Congress”
+
 This measure would prohibit the use of scientific determinations to drive regulatory, enforcement, and
 legal decisions in the EPA and federal government. Requiring the congressional review and authorization
 of ORD science activities—which span across 3 offices, 4 research centers, 6 research programs and
 countless partnerships across industries, academic institutions, trade associations, other agencies, state
 government and NGOs—would slow, if not completely hinder, the ORD’s ability to deliver accurate,
 relevant, science-based risk assessments to the American public.
-Consequences:
-●
-Harms economic, scientific, and educational progress. The plan would cut over $800 million for
+
+<h3>Consequences:</h3>
+
+● Harms economic, scientific, and educational progress. The plan would cut over $800 million for
 scientific research, technology, and education on the climate crisis and Earth’s natural systems.
-●
-Undercuts our nation’s ability to understand, prepare for, and build resilience to climate change
+
+● Undercuts our nation’s ability to understand, prepare for, and build resilience to climate change
 and more extreme weather. The plan would stymie scientific advancements in climate change
 adaptation including carbon storage, fish population conservation, and wildfire and health impact
 studies. It would also threaten community preparedness for extreme weather and potentially gut
 tools and models that forecast the ecological and mortality impacts of regional ozone
 concentrations and pollution.
+
 Threatens public health, safety, and the environment. The plan would halt or limit integrated efforts across
 the ORD to publicly release environmental and human health data, advance remediation and restoration
 of contaminated sites, support sustainable materials management, and waste recovery and reuse.
-Superfunds
-CAP Analysis on Project 2025 and Superfund site cleanups
+
+<h3>Superfunds</h3>
+<h3>CAP Analysis on Project 2025 and Superfund site cleanups</h3>
 Project 2025 would severely undermine the effective cleanup of toxic and hazardous sites to cut
 costs for industry at the expense of community health and safety.
+
 The report recommends a new policy that would reduce the effectiveness of hazardous Superfund site
 cleanups, which are disproportionately located in or near communities of color and low-income areas.
-Consequences:
-●
-This change would prioritize short-term cleanups to cut costs for polluters while increasing the
+
+<h3>Consequences:</h3>
+● This change would prioritize short-term cleanups to cut costs for polluters while increasing the
 risk of inadequate cleanups that threaten community health and safety at risk.
-●
-The proposal would also weaken groundwater cleanup regulations and revisit the designation of
+
+● The proposal would also weaken groundwater cleanup regulations and revisit the designation of
 PFAS chemicals–forever chemicals that pose serious human health risks including cancer, liver,
 thyroid and reproductive problems, low birthweight and increased risk of birth defects, among
 others–as “hazardous substances” under CERCLA.
 
-99
 Project 2025 would end EOP-led policies and procedures that the Administration alleges are
 “used to advance radical gender, racial, and equity initiatives”
 The proposal seeks to undo policies and whole-of-government efforts to tackle climate change and
 advance equity and justice through the Office of Science and Technology Policy (OSTP) and the Council
 on Environmental Quality (CEQ). It demands the end of EOP-led “policies and procedures that are used
 to advance radical gender, racial, and equity initiatives.”
-CAP Analysis on Project 2025 and ending Cumulative Impact Analysis
+
+<h3>CAP Analysis on Project 2025 and ending Cumulative Impact Analysis</h3>
 More specifically, the plan calls for “banning the use of cumulative impact analysis” under the National
 Environmental Policy Act (NEPA) and seeks to “limit the scope for judicial review of agency NEPA
 analysis and judicial remedies.” It also recommends “a new executive order to create a unified process for
 major infrastructure projects that includes giving project proponents more control of any regulatory
 clocks.”
-Consequences:
-●
-Dismantling these critical EPA and NEPA protections would put polluters over people, giving
+
+<h3>Consequences:</h3>
+
+● Dismantling these critical EPA and NEPA protections would put polluters over people, giving
 industry an even stronger voice over the communities most affected by its actions.
-●
-On the whole, the plan’s myriad reactionary EOP proposals would have serious climate change
+
+● On the whole, the plan’s myriad reactionary EOP proposals would have serious climate change
 impacts on communities throughout the US and the world. The policy changes would guarantee
 more pollution, more acute public health and climate threats, and greater economic insecurity in
 vulnerable communities.
-●
-Disadvantaged communities, including communities of color and low-income areas, already face
+
+● Disadvantaged communities, including communities of color and low-income areas, already face
 disproportionate levels of pollution, public health threats, and climate change impacts on top of
 the many other harms stemming from economic and racial inequality. Undoing all efforts to
 address these inequities would rob many Americans of their fundamental right to breathe clean
 air, drink clean water, and live in a healthy and safe environment.
-Interior
-Drill everywhere
+
+<h3>Interior</h3>
+<h3>Drill everywhere</h3>
 The chapter’s overarching recommendation is a fossil fuel development free-for-all. Despite the fact that
 DOI manages our nation’s National Parks, Wildlife Refuges, National Monuments, and more, there is
 scant mention of land conservation. It argues that “no other initiative is as important for the DOI under
 a conservative President than the restoration of the department’s historic role managing the
 nation’s vast storehouse of hydrocarbons, much of which is yet to be discovered.”
+
 Despite its so-called “energy dominance” agenda, the proposal mentions renewable energy only once, in
 which it accuses Secretary Deb Haaland of “dramatically increas[ing] production of solar and wind
 energy” in order to undermine energy dominance. The plan also demands a near doubling of Willow
 project drilling in the Arctic: “Approve the 2020 Willow [Environmental Impact Statement] ... and expand
 approval from three to five drilling pads.”
+
 Consistent with this “drill everywhere” approach but contained within a separate chapter on the State
 Department, Project 2025 recommends increasing fossil fuel extraction and production across the entire
 Western Hemisphere, ostensibly to “reduce reliance on distant and manipulable sources of fossil fuels,”
 among other objectives.
+
 The plan’s push for more drilling throughout the Americas specifically urges more fossil fuel exploration
 and drilling in the Arctic, while offhandedly acknowledging that the oil and gas there will be more
 accessible due to the rising rate of melting ice caused by climate change. The proposal states, “The rate
@@ -5258,84 +5314,88 @@ Native and Indigenous peoples throughout both continents.
 Remove protections from public parks, monuments, and refuges
 From the start, the DOI chapter reinforces Project 2025’s overwhelming ethos that destroying
 environmental protections is the epitome of a successful conservative Presidency.
+
 The plan posits that Trump’s national monument rollbacks at Bears Ears and Grand Staircase did not go
 far enough, specifically mentioning additional withdrawals of Katahdin Wood and Waters National
 Monument in Maine and Cascade-Siskiyou National Monument in Oregon. It also suggests re-opening
 the failed Zinke-era monument review with a “fresh look at past monument decrees and new ones by
 President Biden.”
+
 Additional public lands whose protections the plan proposes removing include the Tongass National
 Forest, Thompson Divide, Arctic National Wildlife Refuge, Western Arctic, Chaco Canyon, and the
 Boundary Waters. Many of these places are some of the most important and beloved landscapes in the
 US, and removing protections for public lands is highly unpopular with the American people—as is “repeal
 of the Antiquities Act of 1906,” which the plan also recommends.
-Addressing Native American issues with nothing but talking points
+
+<h3>Addressing Native American issues with nothing but talking points</h3>
 The plan’s recommendations for “fulfilling the nations trust responsibilities to American Indians and Indian
 nations” border on insulting:
-●
-“End the war on fossil fuels and domestically available minerals and facilitate their development
+
+● “End the war on fossil fuels and domestically available minerals and facilitate their development
 on lands owned by Indians and Indian nations.”
-●
-“End federal mandates and subsidies of electric vehicles.”
-●
-“Secure the nation’s border to protect the sovereignty and safety of tribal lands.”
-Putting wildlife at risk
+● “End federal mandates and subsidies of electric vehicles.”
+● “Secure the nation’s border to protect the sovereignty and safety of tribal lands.”
+
+<h3>Putting wildlife at risk</h3>
 The DOI chapter is as hostile to protecting wildlife as it is to protecting public lands. For example, it
 proposes reinstituting the practice of bearbaiting, a cruel practice the Humane Society describes as
 “intensive feeding of black bears to make them easier targets of trophy hunters waiting nearby.”
 Consequences:
-●
-On the whole, Project 2025’s recommendations for public lands and other matters within DOI’s
+● On the whole, Project 2025’s recommendations for public lands and other matters within DOI’s
 jurisdiction would significantly harm the critical effort to stop climate change, seriously threaten
 wildlife, and imperil America’s most cherished natural places—all in order to serve the narrow
 interests of outmoded, polluting industries.
-Energy
+
+<h3>Energy</h3>
 End grid planning and focus only on “reliability”
 One of the most significant of these changes is the proposal to flat-out “end grid planning and focus
 instead on reliability” concerning FERC, the North American Electric Reliability Corporation (NERC), and
 DOE’s Grid Deployment Office (GDO). The plan also urges “the funding programs that GDO oversees
 and administers” to “emphasize grid reliability, not renewables expansion.”
+
 With its fixation on limiting federal involvement in the grid to “reliability” (mostly concerning cybersecurity
 threats), the proposed policy would do nothing to clear the transmission bottleneck preventing renewable
 electricity from reaching areas where that power is needed most to complete the transition away from
 fossil fuels.
 
-101
-Consequences:
-●
-Taken on their face, these changes would stop federal efforts to streamline buildout of new
+<h3>Consequences:</h3>
+● Taken on their face, these changes would stop federal efforts to streamline buildout of new
 transmission and interconnection, a prominent recent example being FERC’s new
 Interconnection Rule to speed generator connections to the grid.
-●
-The proposal would ironically also stop federal efforts to improve grid reliability in the more
+● The proposal would ironically also stop federal efforts to improve grid reliability in the more
 practical sense of preventing power shortages and other consequences of insufficient
 transmission, a goal broadly supported by state and congressional leaders of both parties.
-Defund most Grid Deployment Office programs
+
+<h3>Defund most Grid Deployment Office programs</h3>
 The proposal seeks to “[d]efund most GDO programs,” comprising nearly $20 billion of IIJA funding,
 including grid modernization grants and transmission facilitation, urging Congress to “rescind any money
 not already spent.”
-Consequences:
-●
-Taken with other proposals, this would seriously reduce the federal government’s involvement in
+
+<h3>Consequences:</h3>
+● Taken with other proposals, this would seriously reduce the federal government’s involvement in
 transitioning America’s energy economy to clean sources.
-Eliminate the Loan Program Office
+
+<h3>Eliminate the Loan Program Office</h3>
 Most expansively, the plan calls for DOE to stop backing any new loans or loan guarantees, and for
 Congress to sunset all of DOE’s loan authority, and “eventually eliminate the Loan Program Office”
 (LPO). LPO has been instrumental in supporting American technological innovation critical to keeping
 American businesses competitive on the international stage. LPO financing also supports job creation
 domestically, and to date LPO has supported the creation of over 46,000 permanent jobs.
-Consequences:
-●
-Taken together, the above proposals would significantly harm emissions reduction efforts, as well
+
+<h3>Consequences:</h3>
+● Taken together, the above proposals would significantly harm emissions reduction efforts, as well
 as remove a significant fiscal promoter of jobs, economic activity, and technological
 advancement.
-Commerce
-Toplines
+
+<h3>Commerce</h3>
+<h3>Toplines</h3>
 ✔ Abolishes the Economic Development Administration
 ✔ Dismantles NOAA
 ✔ Privatizes the National Weather Service
 ✔ Adds a citizenship question to the U.S. Census
 ✔ Eliminates funding for the Minority Business Development Agency
-Office of the Secretary
+
+<h3>Office of the Secretary</h3>
 Project 2025 called for the abolishment of any advisory committee if they are not required by
 statute. “Due to the nature of the Department of Commerce’s portfolio, many of its advisory committees
 are populated by activists from organizations openly hostile to conservative principles who use the
@@ -5346,24 +5406,26 @@ productive contributions to the policy-making process. Federal Advisory Committe
 compliance and awareness of any ways the committees have been written into regulations should be
 considered.” [Department of Commerce, Project 2025, accessed 6/24/24]
 
-102
-NOAA
+<h3>NOAA</h3>
 Project 2025 called for the dismantling of NOAA with “many of its functions eliminated, sent to
 other agencies, privatized, or placed under the control of states and territories.” “The National
 Oceanographic and Atmospheric Administration (NOAA) should be dismantled and many of its functions
 eliminated, sent to other agencies, privatized, or placed under the control of states and territories.”
 [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended that NOAA “be broken up and downsized.” “Together, these form a
 colossal operation that has become one of the main drivers of the climate change alarm industry and, as
 such, is harmful to future U.S. prosperity. This industry’s mission emphasis on prediction and
 management seems designed around the fatal conceit of planning for the unplannable. That is not to say
 NOAA is useless, but its current organization corrupts its useful functions. It should be broken up and
 downsized.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: Each of NOAA’s functions “could be provided commercially, likely at a lower cost
 and higher quality.” “NOAA today boasts that it is a provider of environmental information services, a
 provider of environmental stewardship services, and a leader in applied scientific research. Each of these
 functions could be provided commercially, likely at lower cost and higher quality.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 claimed that forecasts and warnings provided by private companies like
 AccuWeather were more reliable than NWS, so called on NWS to “fully commercialize its
 forecasting operations” and “focus on its data gathering services.” “Focus the NWS on Commercial
@@ -5373,6 +5435,7 @@ have found that the forecasts and warnings provided by the private companies are
 those provided by the NWS.2 The NWS provides data the private companies use and should focus on its
 data-gathering services. Because private companies rely on these data, the NWS should fully
 commercialize its forecasting operations.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended the “commercialization of weather technologies” should be
 prioritized. “NOAA does not currently utilize commercial partnerships as some other agencies do.
 Commercialization of weather technologies should be prioritized to ensure that taxpayer dollars are
@@ -5382,25 +5445,27 @@ solutions provided by each contract is personalized to the needs of NOAA’s wea
 should be a candidate to become a Performance-Based Organization to better enforce organizational
 focus on core functions such as efficient delivery of accurate, timely, and unbiased data to the public and
 to the private sector.3” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended transferring NOS Survey operations to the U.S. Coast Guard and the
 U.S. Geological Survey. “Transfer NOS Survey Functions to the U.S. Coast Guard and the U.S.
 Geological Survey. Survey operations have historically accounted for almost half the NOS budget. These
 functions could be transferred to the U.S. Coast Guard and U.S. Geological Survey to increase efficiency.
 NOS’ expansion of the National Marine Sanctuaries System should also be reviewed, as discussed
 below.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended merging the National Marine Fisheries Service and the U.S. Fish and
 Wildlife Service. “Overlap exists between the National Marine Fisheries Service and the U.S. Fish and
 Wildlife Service. Overly simplified, the NMFS handles saltwater species while the Fish and Wildlife
 Service focuses on fresh water. The goals of these two agencies should be streamlined.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended harmonizing the Magnuson-Stevens Act with the National Marine
 Sanctuaries Act. “Harmonize the Magnuson–Stevens Act with the National Marine Sanctuaries Act.
-
-103
 Under the auspices of NOS, marine sanctuaries (including no-fishing zones) are being established
 country-wide, often conflicting with the goals of the Magnuson–Stevens Act fisheries management
 authorities of NOAA Fisheries, regional fishery management councils, and relevant states.” [Department
 of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 pushed for the withdrawal of the 30x30 EO and the America the Beautiful Initiative,
 which they claim are being used to close “vast areas of the ocean to commercial activities…while
 rapidly advancing offshore wind energy development.” “Withdraw the 30x30 Executive Order and
@@ -5408,11 +5473,13 @@ Associated America the Beautiful Initiative. The 30x30 Executive Order and the A
 Initiative are being used to advance an agenda to close vast areas of the ocean to commercial activities,
 including fishing, while rapidly advancing offshore wind energy development to the detriment of fisheries
 and other existing ocean-based industries.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 wants to “modify regulations implementing the Marine Mammal Protection Act and
 the Endangered Species Act. “Modify Regulations Implementing the Marine Mammal Protection Act and
 the Endangered Species Act. These acts are currently being abused at a cost to fisheries and Native
 American subsistence activities around the U.S.” [Department of Commerce, Project 2025, accessed
 6/24/24]
+
 “Allow a NEPA Exemption for Fisheries Actions. All the requirements for robust analysis of the biological,
 economic, and social impacts of proposed regulatory action in fisheries are contained with the
 Magnuson–Stevens Act, the guiding Act for fisheries. NEPA overlays these requirements with onerous,
@@ -5420,6 +5487,7 @@ redundant, and time-consuming process requirements, which routinely cause unnece
 promulgation of timely fisheries management actions. The Department of Commerce and the Council on
 Environmental Quality should collaborate to reduce this redundancy.” .” [Department of Commerce,
 Project 2025, accessed 6/24/24]
+
 Project 2025: “The preponderance of” the Office of Oceanic and Atmospheric Research’s climate
 change research should be disbanded as it contributes to a lot of “NOAA’s climate alarmism.”
 “OAR provides theoretical science, as opposed to the applied science of the National Hurricane Center.
@@ -5428,12 +5496,14 @@ change research should be disbanded. OAR is a large network of research laborato
 research center, and several joint research institutes with universities. These operations should be
 reviewed with an aim of consolidation and reduction of bloat.” [Department of Commerce, Project 2025,
 accessed 6/24/24]
+
 Project 2025 recommended breaking up the Office of Marine and Aviation Operations, and
 reassign its assets to GSA or other agencies. “Break Up the Office of Marine and Aviation Operations
 and Reassign Its Assets to Other Agencies During This Process. The Office of Marine and Aviation
 Operations, which provides the ships and planes used by NOAA agencies, should be broken up and its
 assets reassigned to the General Services Administration or to other agencies.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended that the Office of Space Commerce work to establish a whole-of-
 government approach for licensing and oversight of commercial space operations. “There
 presently exists no unified U.S. government policy on commercial space operations, with the Federal
@@ -5445,8 +5515,7 @@ order, direct the Office of Space Commerce, working with the National Space Coun
 whole-of-government policy for licensing and oversight of commercial space operations.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
 
-104
-Census Bureau
+<h3>Census Bureau</h3>
 Project 2025: “Appointed staff should be in place at the Bureau as early as feasible after a new
 President takes office. This will require the Office of Personnel Management to allocate additional
 political appointee positions to the Census Bureau.” “Strong political leadership is needed to increase
@@ -5456,6 +5525,7 @@ continued operation of the Bureau’s many surveys. To move bureaucracy on key p
 staff should be in place at the Bureau as early as feasible after a new President takes office. This will
 require the Office of Personnel Management to allocate additional political appointee positions to the
 Census Bureau.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 wants to review the Census partnership program and urged the next administration
 “to actively engage with conservative groups and voices to promote response to the decennial
 census.” “This program, designed to promote responsiveness to the census by employing trusted voices
@@ -5465,6 +5535,7 @@ to the decennial census will ensure that the most accurate counts are conducted,
 accurate apportionment of congressional representation and allocation of federal funds. In 2020, lack of
 conservative participation was one factor in an undercount in some areas of the country, affecting
 representation of certain states.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 urged a conservative administration to add a citizenship question to the decennial
 census despite the Supreme Court ruling that adding it violated the Administrative Procedures
 Act. “Despite finding that the Trump Administration’s addition of the citizenship question to the 2020
@@ -5475,6 +5546,7 @@ citizenship question is considered best practice even by the United Nations. By 
 must deliver the decennial census subjects/ topics to Congress three years before Census Day (in this
 case, by April 1, 2027). Questions must be presented to Congress two years before Census Day (April 1,
 2028).” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 wants a conservative administration to “review forthcoming changes to race and
 ethnicity questions.” “Review forthcoming changes to race and ethnicity questions. The current
 Administration has announced its intent to change data collection methods regarding race and ethnicity
@@ -5485,36 +5557,40 @@ could be skewed to bolster progressive political agendas. Government data should
 trusted—and an incoming conservative Administration should ensure that is the case. This work must be
 coordinated with the Office of Management and Budget, which governs federal data collection standards
 via its statistical directives.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 suggested reevaluating all decennial census questions. “Reevaluate all decennial
 census questions. Determine how best to optimize use of the decennial census to determine whether
 current or additional questions provide added value in coordination with other departments that utilize the
 information. Overly intrusive questions or less crucial data should either be moved to another survey or
 removed from Census programs entirely.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the Census Bureau National Advisory Committee on Racial, Ethnic, and
 Other Populations to be “immediately” abolished. “The Census Bureau National Advisory Committee
 on Racial, Ethnic, and Other Populations (NAC) was established by the Obama Administration in 2012
 and rechartered by the Biden Administration in 2022. The committee is a hotbed for left-wing activists
 intent upon injecting racial and social-justice theory into the governing philosophy of the Census Bureau.
 The NAC should immediately be abolished by the incoming Administration. The NAC charter gives the
-
-105
 Secretary of Commerce the authority to terminate the committee. Since the Secretary of Commerce
 established the NAC in 2012 under the FACA, the Secretary is authorized to terminate the NAC.”
 [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “The new Administration should also reevaluate and potentially abolish all non-
 statutory standing committees within the Census Bureau, including the Census Scientific
 Advisory Committee.” [Department of Commerce, Project 2025, accessed 6/24/24]
-Economic Development Administration
+
+<h3>Economic Development Administration</h3>
 Project 2025 recommended that the EDA be abolished and that its funding be reallocated to
 overlapping federal grant programs. “Rather than implementing the new Department Organization
 Orders required to put conservative governance in place, it would be more efficient to abolish EDA and
 reallocate its funding to other overlapping federal grant programs.” [Department of Commerce, Project
 2025, accessed 6/24/24]
+
 Project 2025 wants to continue “building on the initial success of Opportunity Zones. “Building on
 the initial success of Opportunity Zones, which incentivized over $75 billion in private sector investment in
 distressed communities by the end of 2020 with little up-front cost to the taxpayer.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
 International Trade Administration
+
 Project 2025 questioned if the International Trade Administration and parts of the Bureau of
 Industry and Security should be moved to the USTR. “Though not an exhaustive set of proposals, the
 next conservative President should consider whether: l The International Trade Administration (ITA) and
@@ -5523,29 +5599,34 @@ U.S. Trade Representative (USTR), along with the Development Finance Corporation
 Development Agency; the Export– Import Bank; and other trade-related programs spread across the
 federal government—as well as considering whether many of these programs should exist within the
 federal government.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “Re-establish and expand suspended in-person pandemic-related verifications,
 particularly regarding the People’s Republic of China. Ensure that verifications are rigorous.”
 [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “Implement advanced analytics and artificial intelligence to identify opportunities for
 self-initiation, detect circumvention, and prevent bad actors from gaming the system.” [Department
 of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “Ensure senior policy and decision-making positions are always held by political
 appointees.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “Revive the China-specific non-market economy unit.” [Department of Commerce,
 Project 2025, accessed 6/24/24]
+
 Project 2025: Top Market Reports could be replaced by industry competitiveness assessments in
 critical sectors of the economy. “However, outside of these functions, implementation of I&A’s mission
 as an intellectual engine for U.S. trade and investment policy can often lack energy and focus. For
 instance, the Top Market Reports that represent a large volume of I&A work do not serve a specific
 strategic function and could be better replaced by industry competitiveness assessments in critical
 sectors of the economy.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: Industry and Analysis should permanently be restructured to perform supply chain
 analysis, identifying potential vulnerabilities. “Going forward, I&A should be permanently restructured
-
-106
 to perform supply-chain analysis on an ongoing basis for the U.S. government, identifying potential
 vulnerabilities like those exposed by the pandemic and resulting shortages in everything from
 semiconductors to baby formula.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 called for “strategic decoupling from China, critical supply chains, and emerging
 technologies to name a few. “Furthermore, permanent standing teams should be established and
 staffed by properly aligned political appointees and trusted career staff to analyze and spur action on the
@@ -5553,6 +5634,7 @@ following priority policy issues: l Strategic decoupling from China; l Defense i
 Critical supply chains (e.g., pharmaceuticals, medical devices, food); and l Emerging technologies (e.g.,
 rare earth minerals, semiconductors, batteries, artificial intelligence, quantum computing).” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 called the “strategic decoupling from China is necessary and, fundamentally, any
 exports of goods, software, and technology to countries of concern, whether directly or indirectly,
 should be prohibited or controlled in the absence of good cause.” “The next few years will prove or
@@ -5561,6 +5643,7 @@ Cold War has already begun; if so, then strategic decoupling from China is neces
 any exports of goods, software, and technology to countries of concern, whether directly or indirectly,
 should be prohibited or controlled in the absence of good cause (e.g., humanitarian and medical aid, food
 aid).” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended Global Markets be consolidated and to elevate Advocacy Center and
 SelectUSA to drive large-scale export transactions and foreign direct investment. “Global Markets
 should also consolidate and elevate the Advocacy Center and SelectUSA as relatively low-cost tools to
@@ -5569,37 +5652,42 @@ effective tool in attracting FDI to the U.S. and to re-shore manufacturing and r
 In a world in which corruption is rampant, these are among the most effective tools in leveling the playing
 field for U.S. communities and companies seeking to engage with governments and potential overseas
 investors.” [Department of Commerce, Project 2025, accessed 6/24/24]
-USPTO
+
+<h3>USPTO</h3>
 Project 2025 “The U.S. Patent and Trademark Office (USPTO) should be made into a performance-
 based organization under the Office of Management and Budget (OMB).” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended USPTO be consolidated into NIST. “Alternatively, the USPTO should be
 consolidated with the National Institute of Standards and Technology (NIST) in a new U.S. Office of
 Patents, Trademarks, and Standards, with all non-mission-critical research functions eliminated or moved
 to other, more focused, federal agencies;” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended the administration be opposed to efforts to provide intellectual
 property waivers to cutting-edge technologies, including for COVID-19 vaccines. “Oppose efforts to
 provide intellectual property waivers for cutting-edge technologies, including for COVID-19 vaccines and
 therapeutics, through the World Trade Organization’s Trade-Related Aspects of Intellectual Property
 Rights agreement or any other mechanism.” [Department of Commerce, Project 2025, accessed 6/24/24]
-Economic Development Administration
+
+<h3>Economic Development Administration</h3>
 Project 2025 recommended the EDA’s grant program be either eliminated or consolidated. “The
 Economic Development Administration’s grant programs, which are among a broad set of duplicative and
 overlapping federal economic development grant programs, should be consolidated with other programs
 and/or eliminated.” [Department of Commerce, Project 2025, accessed 6/24/24]
 
-107
-Census
+<h3>Census</h3>
 Project 2025: The Census Bureau and Bureau of Economic Analysis should be consolidated. “The
 Bureau of Economic Analysis and Census Bureau, as well as the Department of Labor’s Bureau of Labor
 Statistics, should be consolidated into a more manageable, focused, and efficient statistical agency.”
 [Department of Commerce, Project 2025, accessed 6/24/24]
-Bureau of Industry and Security
+
+<h3>Bureau of Industry and Security</h3>
 BIS’s authority to overrule other agency votes should be changed. “Moreover, BIS’s authority to
 overrule other agency votes should be changed. Each agency should have one equal vote and, if a
 licensing dispute remains unresolved, the final decision should be elevated to the National Security
 Advisor and the Secretaries of Defense, State, Commerce, and Energy.” [Department of Commerce,
 Project 2025, accessed 6/24/24]
+
 Project 2025: “BIS should provide specific congressional committees with data from the
 Automated Export System on a quarterly basis.” “Additionally, to improve congressional oversight of
 BIS’s license adjudication process, BIS should provide specific congressional committees with data from
@@ -5610,6 +5698,7 @@ BIS currently denies just 1.2 percent of export licenses. These data reporting r
 Congress better determine whether BIS is adequately protecting national security through appropriate
 use of export controls or whether additional direction from Congress is required.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025: “BIS must deny export licenses to countries that do not permit adequate end-use
 checks (e.g., China/Russia) by U.S. authorities.” “The integrity of the export control system may be
 validated only through adequate end-use checks. BIS must deny export licenses to countries that do not
@@ -5617,20 +5706,24 @@ permit adequate end-use checks (e.g., China/Russia) by U.S. authorities. BIS sho
 forensic audit capabilities of its Export Enforcement officers through improved and frequent training so
 they are able to detect export-control violations.” [Department of Commerce, Project 2025, accessed
 6/24/24]
+
 Project 2025: “The U.S. Government needs a new export control modernization effort to tighten
 the EAR policies governing licenses to countries of concern, including China and Russia.” “The
 U.S. Government needs a new export control modernization effort to tighten the EAR policies governing
 licenses to countries of concern, including China and Russia (specifically, revise and/or reverse the 2008
 through 2016 policies).” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended redesignating China and Russia to a more highly prohibitive export
 licensing group. “Redesignating China and Russia to more highly prohibitive export licensing groups
 (country groups D or E).” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the reduction of the de minimis threshold to 10% or 0% for critical
 technologies. “Reducing the de minimis threshold from 25 percent to 10 percent—or 0 percent for critical
 technologies.” [Department of Commerce, Project 2025, accessed 6/24/24]
 Project 2025: “Tightening the definition of ‘fundamental research’ to address exploitation of the
 open U.S. university system by authoritarian governments through funding, students and
 researchers, and recruitment.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended adding more entities from Russia and China to the BIS Entity List and
 apply license review “policy of denial” prohibiting exports to these entities. “Entity List and
 Sanctions. There are currently just over 500 Chinese and over 500 Russian companies on the
@@ -5643,6 +5736,7 @@ apply a license review ‘policy of denial’ that prohibits exports to these en
 violate export controls should be placed on the BIS Denied Persons List (and thereby lose export
 privileges) and, if the violations are significant enough, they should also be sanctioned by the Department
 of Treasury.” [Department of Commerce, Project 2025, accessed 6/24/24]
+
 BIS should designate app providers WeChat and ByteDance/TikTok to the Entity List, which would
 prevent users from program updates, which would eventually make the app non-operational in the
 U.S. “BIS should additionally designate app providers (such as WeChat and ByteDance/TikTok) known
@@ -5650,7 +5744,8 @@ for undermining U.S. national security through data collection, surveillance, an
 the Entity List. This listing would prevent app users from program updates, which would quickly make
 these apps non-operational in the United States.” [Department of Commerce, Project 2025, accessed
 6/24/24]
-Minority Business Development Agency
+
+<h3>Minority Business Development Agency</h3>
 The Trump administration proposed eliminating funding for MBDA. “MBDA has the appearance, on
 its face, of perpetuating racial bias by focusing on minority advancement rather than economic need or
 other criteria. This is why the Trump Administration proposed eliminating funding for the agency in 2017.
@@ -5660,7 +5755,8 @@ changed course and proposed that MBDA continue to exist as a permanently authori
 on policy rather than offering services. Despite this change, many conservatives understandably see
 MBDA as problematic on a philosophical level.” [Department of Commerce, Project 2025, accessed
 6/24/24]
-National Institute of Standards and Technology
+
+<h3>National Institute of Standards and Technology</h3>
 Project 2025 proposed the full privatization of the Hollings Manufacturing Extension Partnership.
 “Privatize the Hollings Manufacturing Extension Partnership. The Hollings Manufacturing Extension
 Partnership (MEP) establishes and manages a network of centers focused on advising small- and
@@ -5671,6 +5767,7 @@ funding was abolished in 1998. MEP’s business advisory services would be more 
 the private sector. The next Administration should propose legislation to zero out this $150 million
 program and fully privatize existing MEP centers.” [Department of Commerce, Project 2025, accessed
 6/24/24]
+
 Project 2025 recommended the Baldridge Performance Excellence Program be transferred to the
 private sector. “Transfer the Baldridge Performance Excellence Program. This program’s ‘process’
 assists companies in improving management and operations, a function more properly and effectively
@@ -5679,36 +5776,40 @@ dollars in fees charged to each participating company or entity and long-term pl
 self-sufficient. Maintenance and operation of the program should be entirely handed over to the Baldridge
 Award Foundation to be run by non-government staff via fees.” [Department of Commerce, Project 2025,
 accessed 6/24/24]
-National Telecommunications and Information Administration
+
+<h3>National Telecommunications and Information Administration</h3>
 Project 2025 recommended the NTIA held big tech accountable by providing “policy solutions to
 address big tech’s censorship of speech.” “Support free speech and hold big tech accountable.
 Immediately conduct a thorough review of federal policy regarding free speech online and provide policy
-
-109
 solutions to address big tech’s censorship of speech.” [Department of Commerce, Project 2025, accessed
 6/24/24]
+
 Project 2025 supported implementing the Trump administration’s Information and
 Communications Technology Services Executive Order. “Utilize new tools to eliminate threats to
 national security. Fully implement the Trump Administration’s Information and Communications
 Technology and Services (ICTS) Executive Order authorities in a way that ensures long-term success
 and the legal viability of this new national security tool.9” [Department of Commerce, Project 2025,
 accessed 6/24/24]
+
 Project 2025 supported the expansion of temporary leasing of government allocated spectrum.
 “Expand utilization of federal spectrum. Begin short term, temporary leasing of government allocated
 spectrum to ensure optimum utilization while preserving federal agency use rights.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 wanted to support the commercial space industry by pushing the FCC to make
 decisions “that continue to enable U.S. dominance in the commercial space industry.” “Support
 the commercial space industry. Advocate for licensing decisions at the Federal Communications
 Commission that continue to enable U.S. dominance in the commercial space industry.” [Department of
 Commerce, Project 2025, accessed 6/24/24]
+
 Project 2025 pushed for a reevaluation of FirstNet “in view of modern technologies that will render
 it obsolete.” “Review FirstNet. Evaluate the performance and long-term value proposition of FirstNet in
 view of modern technologies that will render it obsolete.” [Department of Commerce, Project 2025,
 accessed 6/24/24]
-Treasury
-Top Lines
-Tax Reform
+
+<h3>Treasury</h3>
+<h3>Top Lines</h3>
+<h3>Tax Reform</h3>
 ✔ Repeal the Inflation Reduction Act, making life more expensive for Americans and cutting good,
 new jobs
 ✔ Implement a regressive tax code that would increase taxes for low- and middle-income
@@ -5720,7 +5821,8 @@ Americans while reducing taxes for wealthy Ameircans
 property taxes tend to be higher
 ✔ Eliminate clean energy tax credits and incentives
 ✔ Push for a flat consumption tax, and for a flat tax on income but excluding investment
-IRS
+
+<h3>IRS</h3>
 ✔ Staff the IRS with political appointees who are not subject to Senate approval in order to avoid
 transparency and accountability for administration allies
 ✔ Reduce the IRS
@@ -5729,9 +5831,8 @@ transparency and accountability for administration allies
 OECD & International Affairs
 ✔ End its financial support for the Organization for Economic Cooperation and Development
 ✔ Withdraw from the World Bank and IMF and end its financial contribution to both.
-Financial Regulation
 
-110
+<h3>Financial Regulation</h3>
 ✔ Privatize Fannie Mae and Freddie Mac, exposing borrowers and the housing market to predatory
 lenders and schemes
 ✔ Push Congress to repeal the Corporate Transparency Act and for FinCEN to withdraw its
@@ -5739,108 +5840,125 @@ beneficial ownership rule, making it easier for bad actors to launder money
 ✔ Limit employers’ ability to deduct the cost of worker benefits, such as health coverage. It would
 also deny deductions for employer-paid health coverage of employee’s dependents aged 23 or
 older.
-DEI
+
+<h3>DEI</h3>
 ✔ Project 2025 calls for the elimination of the office for Diversity, Equity, Inclusion and Accessibility
 as well as the Counselor for Racial Equity, and the Advisory Committee on Racial Equity within
 the Treasury Department, and the eradication of any DEI practices at Treasury.
+
 Project 2025 proposes regressive tax rates that cost ordinary working Americans more and billionaires
 and corporations less, all while repealing the Inflation Reduction Act and its associating investments, tax
 incentives, and credits that aid America’s clean energy transition. Project 2025 proposes loopholes for
 wealthy individuals and corporations to accrue more wealth, to shield their assets from taxation in off-
 shore low-tax havens, and to close the door behind them by establishing a new ⅗ voting threshold for
 Congress to increase corporate tax rates.
+
 Project 2025 offers corporations and bad actors relaxed regulatory and enforcement conditions by calling
 for Congress to repeal the Corporate Transparency Act, making money laundering easier.
-Tax Reform
+
+<h3>Tax Reform</h3>
 Project 2025 pushed for the enactment of a two-rate individual tax system of 15% and 30% that
 eliminates most deductions, credits, and exclusions. “The Treasury should work with Congress to
 simplify the tax code by enacting a simple two-rate individual tax system of 15 percent and 30 percent
 that eliminates most deductions, credits and exclusions.” [Department of the Treasury, Project 2025,
 accessed 6/24/24]
+
 Project 2025 would have the 30% tax bracket start at or close to the Social Security wage base to
 ensure combined income and payroll tax structure acts close to a flat tax on wage income beyond
 the standard deduction. “The 30 percent bracket should begin at or near the Social Security wage base
 to ensure the combined income and payroll tax structure acts as a nearly flat tax on wage income beyond
 the standard deduction.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 would have the corporate income tax rate be cut to 18%. “The corporate income tax
 rate should be reduced to 18 percent. The corporate income tax is the most damaging tax in the U.S. tax
 system, and its primary economic burden falls on workers because capital is more mobile than labor.17”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: “Capital gains and qualified dividends should be taxed at 15 percent.” “Capital gains
 and qualified dividends should be taxed at 15 percent. Thus, the combined corporate income tax
 combined with the capital gains or qualified dividends tax rate would be roughly equal to the top individual
 income tax rate.18” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: “The system should allow immediate expensing for capital expenditures and index
 capital gains taxes for inflation.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 called on the next administration to repeal all tax increases that were passed as part
 of the Inflation Reduction Act, including the book minimum tax, stock buyback excise tax, the coal
 excise tax, Superfund tax, excise taxes on drug manufacturers to compel them to comply with
 Medicare price controls. “In addition, intermediate tax reform should repeal all tax increases that were
 passed as part of the Inflation Reduction Act,19 including the book minimum tax, the stock buyback
-
-111
 excise tax, the coal excise tax, the reinstated Superfund tax, and excise taxes on drug manufacturers to
 compel them to comply with Medicare price controls.” [Department of the Treasury, Project 2025,
 accessed 6/24/24]
+
 The next administration should push for legislation to fully repeal subsidies in the tax code,
 including dozens of tax credits and breaks for green companies in Subtitle D of the IRA. “The next
 Administration should also push for legislation to fully repeal recently passed subsidies in the tax code,
 including the dozens of credits and tax breaks for green energy companies in Subtitle D of the Inflation
 Reduction Act.” [Department of the Treasury, Project 2025, accessed 6/24/24]
-· CAP: Consequences of repealing clean energy tax credits
-○
-Lost jobs: Largely through tax incentives, the IRA has created over 170,000 new jobs in
+
+<h3>CAP: Consequences of repealing clean energy tax credits</h3>
+○ Lost jobs: Largely through tax incentives, the IRA has created over 170,000 new jobs in
 clean energy. Most if not all of these would be lost if the IRA tax credits were repealed.
 Not only would this devastated working communities but it would also send a catastrophic
 market signal to investors.
-○
-Lost competitiveness: Repealing IRA tax credits for advanced clean energy technologies
+
+○ Lost competitiveness: Repealing IRA tax credits for advanced clean energy technologies
 would gut America’s ability to compete with China in developing the technologies of the
 future. It would also cede global leadership on climate to other nations.
+
 o Lost emissions reductions: The IRA is projected to reduce US emissions by 43-48%
 below 2005 levels by 2035. IRA tax incentives for clean energy are a core component of
 this transition. Reducing emissions will lead to fewer heat waves, wildfires, and other
 extreme weather events. Failing to reduce emissions will mean that these phenomena
 will continue to worsen.
+
 Project 2025: The estate and gift tax should be reduced to no higher than 20%. “The estate and gift
 tax should be reduced to no higher than 20 percent, and the 2017 tax bill’s temporary increase in the
 exemption amount from $5.5 million to $12.9 million (adjusted for inflation) should be made
 permanent.21” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: The Trump tax bill’s temporary increase in the exemption amount from $5.5 million
 to $12.9 million should be made permanent. “The estate and gift tax should be reduced to no higher
 than 20 percent, and the 2017 tax bill’s temporary increase in the exemption amount from $5.5 million to
 $12.9 million (adjusted for inflation) should be made permanent.21” [Department of the Treasury, Project
 2025, accessed 6/24/24]
+
 Project 2025: The tax on global intangible low-taxed income should be reduced to no higher than
 12.5% with the 20% haircut on related foreign tax credits eliminated or reduced. “The tax on global
 intangible low-taxed income should be reduced to no higher than 12.5 percent, with the 20 percent haircut
 on related foreign tax credits reduced or eliminated.22” [Department of the Treasury, Project 2025,
 accessed 6/24/24]
+
 Project 2025: “All non-business tax deductions and exemptions that were temporarily suspended
 by the 2017 tax bill should be permanently repealed, including the bicycle commuting expense
 exclusion, non-military moving expense deductions, and the miscellaneous itemized deductions.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the full repeal of the SALT tax deduction. “The individual state and local tax
 deduction, which was temporarily capped at $10,000, should be fully repealed.” [Department of the
 Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: “Deductions related to educational expenses should be repealed.” [Department of the
 Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: “Special business tax preferences, such as a special deduction for energy-efficient
 commercial building properties, should be eliminated.” [Department of the Treasury, Project 2025,
-
-112
 accessed 6/24/24]
+
 Project 2025 advocated for a kind of consumption tax, and floated a national sales tax, a business
 transfer tax, a Hall-Rabushka flat tax, or a cash flow tax. “The public finance literature is clear that a
 consumption tax would minimize government’s distortion of private economic decisions and thus be the
 least economically harmful way to raise federal tax revenues.28 There are several forms that a
 consumption tax could take, including a national sales tax, a business transfer tax, a Hall–Rabushka flat
 tax,29 or a cash flow tax.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 supported passing legislation that would require a 3/5ths vote in the U.S. House and
 Senate to raise income or corporate tax rates. “Treasury should support legislation instituting a three-
 fifths vote threshold in the U.S. House and the Senate to raise income or corporate tax rates to create a
 wall of protection for the new rate structure. Many states have implemented such a supermajority vote
 requirement.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 does not support the global minimum corporate tax. “Tax competition between states
 and countries is a positive force for liberty and limited government.31 The Biden Administration, under the
 direction of Treasury Secretary Janet Yellen, has pushed for a global minimum corporate tax that would
@@ -5848,49 +5966,37 @@ increase taxation and the size of government in the U.S. and around the world. T
 ‘harmonize’ global tax rates is an attempt to create a global tax cartel to quash tax competition and to
 increase the tax burden globally. The U.S. should not outsource its tax policy to international
 organizations.” [Department of the Treasury, Project 2025, accessed 6/24/24]
-· CAP: Consequences of Project 2025’s conservative tax proposals
-●
-Slash and flatten personal income tax rates, disproportionately benefiting the wealthy, while
+
+<h3>CAP: Consequences of Project 2025’s conservative tax proposals</h3>
+● Slash and flatten personal income tax rates, disproportionately benefiting the wealthy, while
 eliminating credits, deductions, and exclusions.
-●
-Cut the tax rate on capital gains and dividends paid by the wealthiest investors.
-●
-Cut the corporate tax rate from 21 percent to 15 percent. Prior to the 2017 Trump tax cuts, the
+● Cut the tax rate on capital gains and dividends paid by the wealthiest investors.
+● Cut the corporate tax rate from 21 percent to 15 percent. Prior to the 2017 Trump tax cuts, the
 rate was 35 percent. Recent research has documented that the benefits of the 2017 did not
 “trickle down” to workers and the overall failure of the law’s corporate provisions to deliver on its
 promises.
-●
-Undermine efforts to establish a global minimum tax as specified in the OECD’s “two pillar”
+● Undermine efforts to establish a global minimum tax as specified in the OECD’s “two pillar”
 framework and repeal the minimal efforts aimed at discouraging offshoring contained in the 2017
 tax cuts. It would also end U.S. participation in the OECD.
-●
-Repeal the corporate minimum tax imposed by the IRA that is designed to ensure that the largest,
+● Repeal the corporate minimum tax imposed by the IRA that is designed to ensure that the largest,
 most profitable corporations pay at least some amount of tax. It would also repeal the stock
 buyback tax.
-●
-Limit employers’ ability to deduct the cost of worker benefits, such as health coverage. It would
+● Limit employers’ ability to deduct the cost of worker benefits, such as health coverage. It would
 also deny deductions for employer-paid health coverage of employee’s dependents aged 23 or
 older.
-●
-Gut efforts to ensure that the wealthy and large corporations pay the taxes that they owe by
+● Gut efforts to ensure that the wealthy and large corporations pay the taxes that they owe by
 rescinding the funding provided by the IRA. It would also reduce the amount of income subject to
 reporting (see this recent CAP publication for why this is important), which would likely result in
 skyrocketing illegal tax avoidance.
-●
-Establish a goal of shifting the nation’s tax code from one based on income to one based on
+● Establish a goal of shifting the nation’s tax code from one based on income to one based on
 consumption. As CAP wrote earlier this year, this type of tax would dramatically shift the cost of
 government from the wealthy to low- and middle-income households.
-●
-Institute a supermajority vote requirement for federal tax increases - tax increases would require
+● Institute a supermajority vote requirement for federal tax increases - tax increases would require
 the approval of 60 percent of each house of Congress.
-●
-“Expose and eradicate” recent Treasury Department racial equity initiatives.
-●
-Repeal the Corporate Transparency Act, which aims to stem money laundering and other illicit
-activities.
-Universal Savings Accounts
+● “Expose and eradicate” recent Treasury Department racial equity initiatives.
+● Repeal the Corporate Transparency Act, which aims to stem money laundering and other illicit activities.
 
-113
+<h3>Universal Savings Accounts</h3>
 Project 2025: “All taxpayers should be allowed to contribute up to $15,000 (adjusted for inflation)
 of post-tax earnings into Universal Savings Accounts (USAs).” “All taxpayers should be allowed to
 contribute up to $15,000 (adjusted for inflation) of post-tax earnings into Universal Savings Accounts
@@ -5900,19 +6006,20 @@ closely held business. Gains from investments in USAs would be non-taxable and c
 any time for any purpose. This would allow the vast majority of American families to save and invest
 without facing a punitive double layer of taxation.” [Department of the Treasury, Project 2025, accessed
 6/24/24]
-Businesses
+
+<h3>Businesses</h3>
 Project 2025 urged for the business loan limitation to be increased to at least $500,000 and said
 businesses should be allowed to fully carry forward net operating losses. “To encourage
 entrepreneurship, the business loss limitation should be increased to at least $500,000. Businesses
 should also be allowed to fully carry forward net operating losses. Extra layers of taxes on investment and
 capital should also be eliminated or reduced.” [Department of the Treasury, Project 2025, accessed
 6/24/24]
+
 Project 2025: “Extra layers of taxes on investment and capital should also be eliminated or
 reduced.” [Department of the Treasury, Project 2025, accessed 6/24/24]
 Project 2025: “The net investment income surtax and the base erosion anti-abuse tax should be
 eliminated.” [Department of the Treasury, Project 2025, accessed 6/24/24]
-●
-Project 2025: The next administration should set a cap of no more than $12,000 annually
+● Project 2025: The next administration should set a cap of no more than $12,000 annually
 on untaxed benefits that employers can claim as deductions. “To reduce this tax bias against
 wages (as opposed to employee benefits), the next Administration should set a meaningful cap
 (no higher than $12,000 per year per full-time equivalent employee—and preferably lower) on
@@ -5920,18 +6027,16 @@ untaxed benefits that employers can claim as deductions. Employee benefit expens
 tax-deferred retirement account contributions should count toward the limitation, whether offered
 to specific employees or whether the costs relate to a shared benefit like building gym facilities for
 employees.” [Department of the Treasury, Project 2025, accessed 6/24/24]
-●
-Project 2025: “Only a percentage of Health Savings Accounts (HSA) contributions (which
+● Project 2025: “Only a percentage of Health Savings Accounts (HSA) contributions (which
 are not taxed upon withdrawal) should count toward the limitation.” [Department of the
 Treasury, Project 2025, accessed 6/24/24]
-●
-Project 2025: “The limitation on benefit deductions should not be indexed to increase with
+● Project 2025: “The limitation on benefit deductions should not be indexed to increase with
 inflation.” [Department of the Treasury, Project 2025, accessed 6/24/24]
-●
-Project 2025: “Employers should also be denied deductions for health insurance and other
+● Project 2025: “Employers should also be denied deductions for health insurance and other
 benefits provided to employee dependents if the dependents are aged 23 or older.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
-IRS
+
+<h3>IRS</h3>
 Project 2025 opposed the measure that requires banks to file a revised Form 1099-K if they
 receive more than $600. “The Biden Administration has also sought to make the tax system’s
 administrative burden much worse in other ways. For example, it has proposed creating a comprehensive
@@ -5941,7 +6046,6 @@ revised Form 1099-K for all affected payees, as well as provide additional infor
 increase in the scope and breadth of information reporting should be unequivocally opposed.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
 
-114
 Project 2025 wants to increase the number of presidential appointees at the IRS that are not
 subject to Senate confirmation. “For the IRS to change and become more accountable, more
 transparent, and better managed, there is a need to increase the number of Presidential appointments
@@ -5952,6 +6056,7 @@ and Investment Division, the Commissioner of the Large Business and Internationa
 Commissioner of the Small Business Self-Employed Division, and the Commissioner of the Tax Exempt
 and Government Entities Division are presidential appointees.” [Department of the Treasury, Project
 2025, accessed 6/24/24]
+
 Project 2025 called on the operating budget of the IRS to be constant, adjusted for inflation. They
 also want the Office of the Taxpayer Advocate budget to be increased by at least 20% and for the
 DEI office in the IRS to be closed. “The operating budget of the IRS should be held constant in real
@@ -5961,6 +6066,7 @@ IT management is changed; an effective, well-considered implementation plan is a
 oversight is put in place, additional resources dedicated solely to IT modernization may be warranted.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
 Organization for Economic Cooperation and Development
+
 Project 2025: The U.S. should end its financial support for the Organization for Economic
 Cooperation and Development. “The Organization for Economic Co-operation and Development
 (OECD), in conjunction with the European Union, has long tried to end financial privacy and impose
@@ -5969,7 +6075,8 @@ governance and employment issues, the OECD has become little more than a taxpaye
 think tank and lobbying organization.32 The United States provides about one-fifth of OECD’s funding.33
 The U.S. should end its financial support and withdraw from the OECD.” [Department of the Treasury,
 Project 2025, accessed 6/24/24]
-International Affairs
+
+<h3>International Affairs</h3>
 Project 2025 recommended that Treasury withdraw from Senate consideration the Protocol
 Amending the Convention on Mutual Administrative Assistance in Tax Matters, which they claim
 would lead to more transnational issues. “The Treasury Department should withdraw from Senate
@@ -5978,6 +6085,7 @@ Matters.48 The protocol will lead to substantially more transnational identity t
 espionage, financial fraud, and suppression of political opponents and religious or ethnic minorities by
 authoritarian and corrupt governments, including China, Colombia, Nigeria, and Russia.” [Department of
 the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 called on the next administration to oppose the multilateral Competent Authority
 Agreement on Automatic Exchange of Financial Account Information. “The new Administration
 should also oppose the multilateral Competent Authority Agreement on Automatic Exchange of Financial
@@ -5989,19 +6097,19 @@ market and limited government principles. The global elites who operate the IMF 
 taxes and big centralized government. The IMF has intervened in American policy debates—and has
 even recommended that the U.S. raise taxes. The IMF’s record of advancing global financial stability has
 been mixed at best. Its development assistance and lending programs in thirdworld countries have more
-
-115
 often than not retarded growth rather than advancing it. The Treasury Department plays an important role
 in these international institutions and should force reforms and new policies. The U.S., however, should
 withdraw from both the World Bank and the IMF and terminate its financial contribution to both
 institutions.” [Department of the Treasury, Project 2025, accessed 6/24/24]
 Committee on Foreign Investment in the United States
+
 Project 2025 wanted CFIUS to develop a mitigation monitoring program, and said it should
 petition Congress to amend the law to cover Chinese greenfield investments. “Given these issues,
 the next steps for CFIUS should be to develop a more coherent—and transparent—mitigation monitoring
 program to complement the enforcement guidelines, give CFIUS agencies in charge of national security
 concerns an equal voice at the table, and petition Congress to amend the law to cover Chinese greenfield
 investments.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended that CFIUS publish a penalty schedule for violations of CFIUS
 reporting and mitigation requirements. “CFIUS should publish a penalty schedule for violations of
 CFIUS reporting and mitigation requirements. Publishing a penalty schedule for CFIUS violations will
@@ -6010,6 +6118,7 @@ the law. Additionally, a standardized penalty schedule would likely increase the
 enforcement by reducing the perception among parties to covered transactions that they can avoid
 enforcement by the committee or secure special exceptions based on appeals to the committee’s
 discretion.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 called on Congress to close the greenfield investments loophole and require CFIUS
 to review investments in American greenfield assets by Chinese-controlled entities. “Congress
 should close the loophole on greenfield investments and require CFIUS review of investments in U.S.-
@@ -6019,30 +6128,33 @@ category of foreign transactions left out of the bill was greenfield investments
 state-owned enterprises (SOEs). Greenfield investments by Chinese SOEs pose a unique threat, and
 they should be met with the highest scrutiny by all levels of government.” [Department of the Treasury,
 Project 2025, accessed 6/24/24]
-Dodd-Frank Act
+
+<h3>Dodd-Frank Act</h3>
 Project 2025: “Congress should repeal Title I, Title II, and Title VIII of the Dodd–Frank Act.”
 “Congress should repeal Title I, Title II, and Title VIII of the Dodd–Frank Act.52 Title I of Dodd–Frank
 created the Financial Stability Oversight Council, a kind of super-regulator tasked with identifying so-
 called systemically important financial institutions and singling them out for especially stringent regulation.
 The problem, of course, is that this process effectively identifies those firms regulators believe are ‘too big
 to fail.’” [Department of the Treasury, Project 2025, accessed 6/24/24]
-Fannie Mae and Freddie Mac
+
+<h3>Fannie Mae and Freddie Mac</h3>
 Project 2025 recommended that Fannie Mae and Freddie Mac “move toward privatization.”
 “Treasury plays a role in funding the conservatorships of Fannie Mae and Freddie Mac. It should work to
 end the conservatorships and move toward privatization of these massive housing finance agencies. This
 would restore a sustainable housing finance market with a robust private mortgage market that does not
 rely on explicit or implicit taxpayer guarantees.” [Department of the Treasury, Project 2025, accessed
 6/24/24]
+
 Project 2025: “Fannie Mae and Freddie Mac (both GSEs) must be wound down in an orderly
 manner.” [Department of the Treasury, Project 2025, accessed 6/24/24]
 
-116
 Project 2025: “Treasury plays a role in funding the conservatorships of Fannie Mae and Freddie
 Mac. It should work to end the conservatorships and move toward privatization of these massive
 housing finance agencies.” [Department of the Treasury, Project 2025, accessed 6/24/24]
 Project 2025: “The Common Securitization Platform should be privatized and broadly available.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
-Financial Regulation
+
+<h3>Financial Regulation</h3>
 Project 2025 recommended the next administration support the merging of the Office of the
 Comptroller of the Currency, FDIC, the National Credit Union Administration, and the Federal
 Reserve’s non-monetary supervisory and regulatory functions. “The new Administration should
@@ -6050,6 +6162,7 @@ establish a more streamlined bank and supervision by supporting legislation to m
 Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union
 Administration, and the Federal Reserve’s non-monetary supervisory and regulatory functions.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 called on Congress to repeal the Corporate Transparency Act and for FinCEN to
 withdraw its beneficial ownership rule. “Congress should repeal the Corporate Transparency Act, and
 FinCEN should withdraw its poorly written and overbroad beneficial ownership reporting rule. Both are
@@ -6058,7 +6171,8 @@ material to impede criminal finance.68 The FinCEN beneficial ownership reporting
 exceeding $1 billion annually and is exceedingly poorly drafted.69 FinCEN itself estimates that more than
 33 million businesses will be affected and that costs will be $547 million to $8.1 billion annually.”
 [Department of the Treasury, Project 2025, accessed 6/24/24]
-DEI
+
+<h3>DEI</h3>
 Project 2025 called for the elimination of the office for Diversity, Equity, Inclusion and
 Accessibility as well as the Counselor for Racial Equity, and the Advisory Committee on Racial
 Equity within the Treasury Department. “Under the Biden Administration, the Treasury Department has
@@ -6067,6 +6181,7 @@ created an office for Diversity, Equity, Inclusion, and Accessibility. All these
 Treasury has created several new offices to promote ‘equity’ and has made this its first of five strategic
 goals in its Fiscal Year 2022–2226 Strategic Plan. ‘Equity’ is identified as a cross-cutting theme in 15 of
 19 of the plan’s objectives.” [Department of the Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025: “The next conservative Administration should take affirmative steps to expose and
 eradicate the practice of critical race theory and diversity, equity, and inclusion (DEI) throughout
 the Treasury Department.” “The avowed purpose of these initiatives is to implement policies that
@@ -6075,6 +6190,7 @@ policymaking in the federal government must be forcefully opposed and reversed. 
 Administration should take affirmative steps to expose and eradicate the practice of critical race theory
 and diversity, equity, and inclusion (DEI) throughout the Treasury Department.” [Department of the
 Treasury, Project 2025, accessed 6/24/24]
+
 Project 2025 wanted specific actions taken to eliminate DEI from the Treasury Department. “These
 steps will include: l Identify every Treasury official who participated in DEI initiatives and interview him or
 her for the purpose of determining the scope and nature of these initiatives and to ensure that such
@@ -6085,10 +6201,10 @@ employment. l Expose and make public all training materials and initiatives desi
 race, ethnicity, or sex for special treatment.” [Department of the Treasury, Project 2025, accessed
 6/24/24]
 
-117
 Project 2025: “The Administration should eliminate the 25-member Treasury Advisory Committee
 on Racial Equity.” [Department of the Treasury, Project 2025, accessed 6/24/24]
 Climate
+
 Project 2025: “The next Administration should eliminate the Climate Hub Office and withdraw from
 climate change agreements that are inimical to the prosperity of the United States.” “Treasury has
 created a new departmental office, ‘Climate Hub,’ and has made ‘combating climate change’ one of the
@@ -6098,13 +6214,15 @@ the United States. The Climate Hub office ‘coordinates Treasury’s work to in
 mobilize financial flows for climate mitigation and climate adaptation and supports the broader alignment
 of the financial system with a path to net-zero emissions by mid-century.” [Department of the Treasury,
 Project 2025, accessed 6/24/24]
+
 Project 2025 called on the next administration to promote investment in domestic energy,
 including in oil and gas. “The next Administration should use Treasury’s tools and authority to promote
 investment in domestic energy, including oil and gas. It should reverse support for international public-
 (and private-) based efforts promoting Environmental, Social, and Governance75 and Principles for
 Responsible Investment,76 both of which have badly damaged U.S. energy security.” [Department of the
 Treasury, Project 2025, accessed 6/24/24]
-Trade
+
+<h3>Trade</h3>
 Project 2025: “Congress should eliminate the U.S. Trade and Development Agency.” “Congress
 should eliminate the U.S. Trade and Development Agency (USTDA). The USTDA is intended to help
 companies create U.S. jobs through the export of U.S. goods and services for priority development
@@ -6115,9 +6233,10 @@ private sector. The best way to promote trade and development is to reduce tarif
 barriers. Another way is to reduce the federal budget deficit, and thereby federal borrowing from abroad,
 freeing more foreign dollars to be spent on U.S. exports instead of federal treasury bonds.” [Department
 of the Treasury, Project 2025, accessed 6/24/24]
-Financial Regulation
-Top Lines
-Federal Reserve
+
+<h3>Financial Regulation</h3>
+<h3>Top Lines</h3>
+<h3>Federal Reserve</h3>
 ✔ Limit the Federal Reserve’s independence and autonomy in managing key economic indicators
 and handling financial crises
 ✔ Would move to a free banking system “where the Federal Reserve is effectively abolished”
@@ -6127,15 +6246,15 @@ and handling financial crises
 of last resort function
 ✔ Wind-down the Federal Reserve’s balance sheet to prevent the Federal Reserve from stabilizing
 potential market risks
-SEC, CFTC, and CFPB
 
-118
+<h3>SEC, CFTC, and CFPB</h3>
 ✔ Substantially weaken or eliminate restrictions on companies selling shares to the public without
 making any reliable disclosures.
 ✔ Seeks to abolish the Consumer Financial Protection Bureau and reverse Dodd-Frank Section
 1061 that created it, returning the consumer protection functions to the various agencies that
 handled them before the Global Financial Crisis.
 ✔ Deregulate cryptocurrency, exposing consumers to serious financial risk
+
 Project 2025 proposes drastic, destabilizing changes to America’s financial regulatory functions that
 protect our markets and our consumers from shocks, volatility, and spiraling financial crises. Project
 2025’s plans, if implemented, would eliminate at worst, and compromise at best, the Federal Reserve’s
@@ -6145,12 +6264,14 @@ Reserve’s autonomy with a complete rollback on consumer financial protection r
 privatize Fannie Mae and Freddie Mac, setting the stage for the kind of mortgage-backed security crisis
 Ameircans suffered through in 2008-2009. A Project 2025 Administration will favor predatory actors
 looking to take advantage of consumers across cryptocurrency, lending, and stock markets.
-Federal Reserve
+
+<h3>Federal Reserve</h3>
 Project 2025 proposes to eliminate the Fed’s dual mandate and mission of full employment. “The
 dual mandate may inadvertently contribute to recessions rather than fixing them…It is also worth noting
 that the problem of the dual mandate may worsen with new pressure on the Federal Reserve to include
 environmental or redistributionist “equity” goals in its policymaking, which will likely enable additional
 federal spending.” [Federal Reserve, Project 2025 accessed 6/24/24]
+
 Project 2025 proposes moving to a Free Banking System, effectively abolishing the Federal
 Reserve. “The Federal Reserve is effectively abolished, and the Department of the Treasury largely limits
 itself to handling the government’s money.” [Federal Reserve, Project 2025 accessed 6/24/24]
@@ -6159,51 +6280,53 @@ retains some appeal among monetary reformers who do not wish to go so far as abo
 Reserve. Both the 2012 and 2016 GOP platforms urged the establishment of a commission to consider
 the feasibility of a return to the gold standard, and in October 2022, Representative Alexander Mooney
 (R-WV) introduced a bill to restore the gold standard.” [Federal Reserve, Project 2025 accessed 6/24/24]
+
 Project 2025 proposes limiting the Federal Reserve’s lending capacities. “Curb the Fed’s excessive
 last-resort lending practices. These practices are directly responsible for “too big to fail” and the
 institutionalization of moral hazard in our financial system.” [Federal Reserve, Project 2025 accessed
 6/24/24]
+
 Project 2025 proposes limiting the Federal Reserve’s independence. “In essence, because of its
 vastly expanded discretionary powers with respect to monetary and regulatory policy, the Fed lacks both
 operational effectiveness and political independence. To protect the Federal Reserve’s independence
 and to improve monetary policy outcomes, Congress should limit its mandate to the sole objective of
 stable money.” [Federal Reserve, Project 2025 accessed 6/24/24]
+
 Project 2025: “Appoint a commission to explore the mission of the Federal Reserve, alternatives
 to the Federal Reserve system, and the nation’s financial regulatory apparatus.” [Federal Reserve,
 Project 2025 accessed 6/24/24]
 SEC, CFTC and CFPB
+
 Project 2025 called the CFPB “unconstitutional” and argued for Congress to abolish it. “The CFPB
 is a highly politicized, damaging, and utterly unaccountable federal agency. It is unconstitutional.
-
-119
 Congress should abolish the CFPB and reverse Dodd–Frank Section 1061, thus returning the consumer
 protection function of the CFPB to banking regulators and the Federal Trade Commission.” [Financial
 Regulatory Agencies, Project 2025, accessed 6/24/24]
-CAP Analysis on Project 2025 and the SEC, CFTC, and CFPB
+
+<h3>CAP Analysis on Project 2025 and the SEC, CFTC, and CFPB</h3>
 Substantially weaken or eliminate restrictions on companies selling shares to the public without
 making any reliable disclosures.
 CAP released a report this year about the extensive harms to investors and the public of the growing
 exemptions from the public company reporting framework.
-Consequences:
-●
-These changes would greatly reduce the number of disclosures that companies make to
+
+<h3>Consequences:</h3>
+● These changes would greatly reduce the number of disclosures that companies make to
 investors.
-●
-Capital would be more likely to remain invested in fossil fuel assets and much less likely to flow to
+● Capital would be more likely to remain invested in fossil fuel assets and much less likely to flow to
 renewable energy because investors (and the public) would lack information about which
 companies are high emission.
-●
-Financial institutions would continue to provide loans to and invest in fossil fuel and other high
+● Financial institutions would continue to provide loans to and invest in fossil fuel and other high
 emission industries.
+
 The section on the CFTC would take a very pro-cryptocurrency approach by recommending
 changes that would essentially provide a separate, light regulatory regime for crypto.
-Consequences:
-●
-The scams, money laundering, and financing of Russia and terrorism that have already been
+
+<h3>Consequences:</h3>
+● The scams, money laundering, and financing of Russia and terrorism that have already been
 occurring through the use of anonymous crypto transactions will get much worse.
-●
-Americans who invest in crypto will be harmed and could lose their life savings if they invest them
+● Americans who invest in crypto will be harmed and could lose their life savings if they invest them
 in crypto assets, just like when FTX collapsed.
+
 Supports the reasoning of the 5th Circuit, which said the CFPB’s funding was unconstitutional.
 SCOTUS will hear oral arguments on October 3 of this year. CAP is planning an event on September 28
 specifically about this case and the extensive consumer protection statutes overseen by the agency and
@@ -6211,27 +6334,26 @@ the many rules promulgated since the agency was established in 2012–all of whi
 from scams, abusive fees, and unfair financial practices of financial institutions.
 Seeks to abolish the CFPB and reverse Dodd-Frank Section 1061 that created it, returning the
 consumer protection functions to the various agencies that handled them pre-CFTC.
-Consequences:
-●
-If the CFPB is abolished, or even if the 5th Circuit decision is affirmed by the US Supreme Court,
+
+<h3>Consequences:</h3>
+● If the CFPB is abolished, or even if the 5th Circuit decision is affirmed by the US Supreme Court,
 there will be chaos in consumer financial markets due to uncertainty about the agency’s ability to
 continue enforcing the law and the validity of the many rules and regulations it has already
 passed since it began operating a decade ago.
-●
-Depending on the rationale of the Court in affirming the 5th Circuit, it’s possible that the funding
+● Depending on the rationale of the Court in affirming the 5th Circuit, it’s possible that the funding
 and functioning of several other financial regulatory agencies, such as the Fed, the FDIC and the
 OCC, will be threatened–with corresponding instability in the financial system. Chaos in the
 financial system will delay climate action in myriad ways.
-Housing and Urban Development
-Toplines
+
+<h3>Housing and Urban Development</h3>
+<h3>Toplines</h3>
 ✔ Reverses Biden-era regulations on fair housing
 ✔ Increases mortgage insurance premiums on all products above 20-year terms
 ✔ Restricts eligibility for first-time homebuyer programs
-
-120
 ✔ Repeals the Affirmatively Furthering Fair Housing regulation
 ✔ Ends the Biden Administrations Property Appraisal and Valuation Equity (PAVE) program
 ✔ Prohibits noncitizens from living in federally assisted housing
+
 Project 2025 floated “devolving many HUD functions to states and localities with any remaining
 federal functions consolidated to other federal agencies.” “Finally, and more fundamentally,
 Congress could consider a wholesale overhaul of HUD that contemplates devolving many HUD functions
@@ -6242,19 +6364,23 @@ redesignated Housing and Home Finance Agency). Generally, this reform path could
 programs, eliminate others that have failed to produce meaningful long-run results, and narrow the scope
 of many programs so that they are closer to what they were when they were created.” [Department of
 Housing and Urban Development, Project 2025, accessed 6/24/24]
+
 Project 2025 called for the next conservative administration to “reset HUD” and reverse the Biden
 administration’s “corrosive progressive ideologies.” “A new conservative Administration will therefore
 need to: l Reset HUD. This effort should specifically include a broad reversal of the Biden Administration’s
 persistent implementation of corrosive progressive ideologies across the department’s programs.”
 [Department of Housing and Urban Development, Project 2025, accessed 6/24/24]
-Personnel
+
+<h3>Personnel</h3>
 Project 2025 called on HUD to politicize the department by “immediately” appointing political
 appointees to various leadership positions. “HUD political leadership should immediately assign all
 delegated powers to politically appointed PDAS, DAS, and other office leadership positions; change any
 current career leadership positions into political and non-career appointment positions; and use Senior
 Executive Service (SES) transfers to install motivated and aligned leadership.” [Department of Housing
 and Urban Development, Project 2025, accessed 6/24/24]
-Real Estate
+
+<h3>Real Estate</h3>
+
 Project 2025 called on the Federal Housing Administration to increase the mortgage insurance
 premium on all products above 20-year terms and maintain MIP for all below 20-year terms and
 refinances. “FHA leadership should increase the mortgage insurance premium (MIP) for all products
@@ -6263,27 +6389,25 @@ should encourage wealth-building homeownership opportunities, which can be accom
 through shorter-duration mortgages.39 Ideally, Congress would contemplate a fundamental revision of
 FHA’s statutory restriction of single-family housing mortgage insurance to first-time homebuyers.”
 [Department of Housing and Urban Development, Project 2025, accessed 6/24/24]
-●
-Bankrate: “An FHA mortgage insurance premium (MIP) is an additional fee you pay to
+
+● Bankrate: “An FHA mortgage insurance premium (MIP) is an additional fee you pay to
 protect the lender in case you default on your FHA loan.” [Bankrate, 11/8/23]
-●
-FHA borrowers have to pay two MIPs, one upfront and another annually for as long as they
+
+● FHA borrowers have to pay two MIPs, one upfront and another annually for as long as they
 repay the loan. “FHA borrowers must pay two mortgage insurance premiums: one upfront at
 closing and another annually for as long as they repay the loan, in most cases. You will pay each
 premium a little differently.” [Bankrate, 11/8/23]
-●
-FHA mortgage borrowers paid 1.75% of their loan amount in upfront mortgage insurance
+
+● FHA mortgage borrowers paid 1.75% of their loan amount in upfront mortgage insurance
 costs and also paid an annual premium of 0.85%. “FHA mortgages have long provided first-
 time homebuyers and those with less-than-stellar credit an affordable way to achieve
 homeownership. But one of the main drawbacks of these mortgages has been that their
 mortgage insurance costs are relatively high. FHA mortgage borrowers will pay 1.75% of their
 loan amount in upfront mortgage insurance costs, and they typically also pay an 0.85% annual
-
-121
 premium, which is added to their monthly mortgage payment. But in March, FHA borrowers will
 be able to take advantage of lower annual mortgage insurance rates.” [Business Insider, 2/23/23]
-●
-The Biden administration announced that FHA’s annual mortgage insurance premium was
+
+● The Biden administration announced that FHA’s annual mortgage insurance premium was
 being cut to 0.55% for most new borrowers, saving an estimated 850k homebuyers an
 average of $800 annually. “Today, the Biden-Harris Administration announced an action that will
 save homebuyers and homeowners with new FHA-insured mortgages an average of $800 per
@@ -6295,14 +6419,14 @@ points, from 0.85% to 0.55% for most new borrowers. The mortgage insurance premi
 monthly fee that homeowners with FHA-insured mortgages pay to insure their mortgages, which
 they pay on top of their monthly principal and interest payments.” [Fact Sheet, White House,
 2/22/23]
-●
-Over 80% of FHA borrowers are first-time homebuyers and over 25% are homebuyers of
+
+● Over 80% of FHA borrowers are first-time homebuyers and over 25% are homebuyers of
 color. “More than 80% of FHA borrowers are first-time homebuyers, and over 25% are
 homebuyers of color. The average home purchased with FHA-insured mortgages cost around
 half the price of the overall national median home and have an average mortgage amount of less
 than $270,000.” [Fact Sheet, White House, 2/22/23]
-●
-FHA loan borrowers putting less than 10% down have to pay FHA mortgage insurance
+
+● FHA loan borrowers putting less than 10% down have to pay FHA mortgage insurance
 until the entire loan term ends. So a 30-year mortgage with a 3.5% down payment option
 would have one paying MIP for the whole term. “Current guidance states that FHA loan
 borrowers who put down less than 10 percent must pay FHA mortgage insurance until the entire
@@ -6314,6 +6438,7 @@ make payments until 2034, the remaining 19 years of your loan would be without a
 insurance payment. The above is simple enough — but it applies to newly originated FHA loans.
 The FHA has changed its rules more than once on this issue, and often those changes aren’t
 retroactive.” [Bankrate, 11/8/23]
+
 Project 2025 called on the next president to issue an EO making the HUD Secretary a member of
 the Committee on Foreign Investment in the U.S., allowing more oversight to address foreign
 threats, particularly from China. “The President should issue an executive order making the HUD
@@ -6322,30 +6447,23 @@ oversight authorities to address foreign threats, particularly from China with o
 ownership of real estate in both rental and ownership markets of single-family and multifamily housing,26
 with trillions worth of real estate secured across HUD’s portfolio.” [Department of Housing and Urban
 Development, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended restricting eligibility for first time homebuyers and stopping
 affirmative obligation authorities for single-family housing programs. “Statutorily restricting eligibility
 for first-time homebuyers and abandoning the affirmative obligation authorities erected for the single-
 family housing programs across federal agencies and government-sponsored enterprises.” [Department
 of Housing and Urban Development, Project 2025, accessed 6/24/24]
-●
-First time homebuyer qualifications include:
-○
-Credit score of at least 620
-○
-Down payment of at least 3%
-○
-Debt-to-income ratio below 43%
-○
-Steady income
-○
-Two-year job history
 
-122
-○
-Clean credit history
+● First time homebuyer qualifications include:
+○ Credit score of at least 620
+○ Down payment of at least 3%
+○ Debt-to-income ratio below 43%
+○ Steady income
+○ Two-year job history
+○ Clean credit history
 [MortgageReports.com, 10/6/23]
-●
-Affirmatively furthering fair housing within HUD requires recipients to take meaningful
+
+● Affirmatively furthering fair housing within HUD requires recipients to take meaningful
 action, in addition to combating discrimination, that overcome patterns of segregation and
 foster inclusive communities that restrict access to opportunity. “Title VIII of the Civil Rights
 Act of 1968, known as the Fair Housing Act, requires HUD and recipients of federal funds from
@@ -6356,15 +6474,16 @@ discrimination, that overcome patterns of segregation and foster inclusive commu
 barriers that restrict access to opportunity based on protected characteristics, which are: Race
 Color National origin Religion Sex (including gender identity and sexual orientation) Familial
 status Disability” [U.S. Department of Housing and Urban Development, accessed 2/20/24]
-●
-HUD and its recipients must do the following while administering programs and activities
+
+● HUD and its recipients must do the following while administering programs and activities
 relating to housing and community development. “Generally, in administering programs and
 activities relating to housing and community development, the federal government, HUD, and its
 recipients must: Determine who lacks access to opportunity and address any inequity among
 protected class groups Promote integration and reduce segregation Transform racially or
 ethnically concentrated areas of poverty into areas of opportunity” [U.S. Department of Housing
 and Urban Development, accessed 2/20/24]
-Housing Equity
+
+<h3>Housing Equity</h3>
 Project 2025: The next administration should “immediately end the Biden Administration’s PAVE
 policies.” “Additionally, departmental leadership should: 1. Immediately end the Biden Administration’s
 Property Appraisal and Valuation Equity (PAVE) policies and reverse any Biden Administration actions
@@ -6378,12 +6497,13 @@ have been skewed by biases that disproportionately harm homeowners in communitie
 This is one factor in the racial and ethnic wealth gap in the U.S. It has also contributed to the
 disparities in the rates of homeownership between people of different races and ethnicities and in
 the financial rewards associated with owning a home.” [Investopedia, 10/22/23]
+
 Project 2025 called for the repeal of the Affirmatively Furthering Fair Housing regulation. “Repeal
 the Affirmatively Furthering Fair Housing (AFFH) regulation reinstituted under the Biden Administration30
 and any other uses of special-purpose credit authorities to further equity.31” [Department of Housing and
 Urban Development, Project 2025, accessed 6/24/24]
-●
-The regulation “directs HUD to ensure that the agency and its program participants
+
+● The regulation “directs HUD to ensure that the agency and its program participants
 proactively take meaningful actions to overcome patterns of segregation, promote fair
 housing choice, eliminate disparities in opportunities, and foster inclusive communities
 free from discrimination.” “On February 9, 2023, HUD published in the Federal Register a
@@ -6394,14 +6514,13 @@ participants proactively take meaningful actions to overcome patterns of segrega
 housing choice, eliminate disparities in opportunities, and foster inclusive communities free from
 discrimination. The public comment period ended on April 24, 2023. HUD will take the upcoming
 months to review public comments before making revisions and finalizing the rule. The public can
-
-123
 check this webpage or at regulations.gov for the final version.” [U.S. Department of Housing and
 Urban Development, accessed 6/24/24]
+
 Project 2025 called for the elimination of the Housing Supply Fund. “4. Eliminate the new Housing
 Supply Fund.32.” [Department of Housing and Urban Development, Project 2025, accessed 6/24/24]
-●
-The Housing Supply Fund is designed to reward states and localities that have already
+
+● The Housing Supply Fund is designed to reward states and localities that have already
 made reforms to ease affordable housing barriers by giving them additional funding.
 “Housing Supply Fund grants to reduce affordable housing barriers. Building on the Unlocking
 Possibilities Program, the President’s 2023 Budget includes a mandatory spending proposal that
@@ -6413,11 +6532,13 @@ already made reforms by giving them additional funding to boost the affordabilit
 the benefits of their new policies. This funding would also support broader housing development
 activities, including environmental planning and mitigation, road infrastructure, and water or sewer
 infrastructure.” [Press Release, White House, 5/16/22]
-Climate Change
+
+<h3>Climate Change</h3>
 Project 2025: HUD leadership should: “Repeal climate change initiatives and spending in the
 department’s budget request.” [Department of Housing and Urban Development, Project 2025,
 accessed 6/24/24]
-Immigration
+
+<h3>Immigration</h3>
 Project 2025 recommended a regulation that “would prohibit noncitizens, including mixed-status
 families, from living in all federally assisted housing.” “The Office of the Secretary should
 recommence proposed regulation put forward under the Trump Administration that would prohibit
@@ -6428,51 +6549,49 @@ impacts public programs, certainly to include any reforms in the Public Charge r
 administered by the U.S. Department of Homeland Security (DHS). Local welfare organizations, not the
 federal government, should step up to provide welfare for the housing of noncitizens.” [Department of
 Housing and Urban Development, Project 2025, accessed 6/24/24]
-●
-Block federal financial aid for up to two-thirds of all American college students if their state
+
+● Block federal financial aid for up to two-thirds of all American college students if their state
 permits certain immigrant groups, including Dreamers with legal status, to access in-state tuition.
-●
-• Terminate the legal status of 500,000 Dreamers by eliminating staff time for reviewing and
+● • Terminate the legal status of 500,000 Dreamers by eliminating staff time for reviewing and
 processing renewal applications.
-●
-• Use backlog numbers to trigger the automatic suspension of application intake for large
+● • Use backlog numbers to trigger the automatic suspension of application intake for large
 categories of legal immigration.
-●
-• Suspend updates to the annual eligible country lists for H-2A and H-2B temporary worker visas,
+● • Suspend updates to the annual eligible country lists for H-2A and H-2B temporary worker visas,
 thereby excluding most populations from filling critical gaps in the agricultural, construction,
 hospitality, and forestry sectors.
-●
-• Bar U.S. citizens from qualifying for federal housing subsidies if they live with anyone who is not
+● • Bar U.S. citizens from qualifying for federal housing subsidies if they live with anyone who is not
 a U.S. citizen or legal permanent resident.
-●
-• Force states to share driver’s licenses and taxpayer identification information with federal
+● • Force states to share driver’s licenses and taxpayer identification information with federal
 authorities or risk critical funding.
+
 Niskanenhttps://www.niskanencenter.org/wp-content/uploads/2024/02/Project-2025-Unveiling-the-far-
 rights-plan-to-demolish-immigration-in-a-second-Trump-term-1.pdf
-Transportation and Infrastructure
 
-124
-Top Lines
+<h3>Transportation and Infrastructure</h3>
+<h3>Top Lines</h3>
 ✔ Halt or stall IIJA and IRA programs that focus on renewable energy
-✔ Rescind DOT’s grantmaking ability and put the power with congress to give grants directly to
-states
+✔ Rescind DOT’s grantmaking ability and put the power with congress to give grants directly to states
 ✔ Reversal of the Biden-Harris Administration’s pro-EV adoption stance
 ✔ Gut emissions regulations
 ✔ Remove safety measure for the development and use of automated vehicles
 ✔ Support joint-venture between airlines
 ✔ Separate the FAA from DOT and politicize its operations
 ✔ Separate MARAD from DOT and politicize its operations
+
 Project 2025 argued there was “little need” for a lot of the grantmaking in DOT’s authority. “DOT’s
 fundamental problem is that instead of being able to focus on providing Americans with affordable and
 abundant transportation, it has become saddled with congressional requirements that reduce the
 department to a de facto grantmaking organization. Yet there is little need for much of this grantmaking,
 for two reasons.” [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 proposes to repeal the Inflation Reduction Act and Bipartisan Infrastructure Law.
 “Support repeal of massive spending bills like the Infrastructure Investment and Jobs Act (IIJA) and
 Inflation Reduction Act (IRA), which established new programs and are providing hundreds of billions of
 dollars in subsidies to renewable energy developers, their investors, and special interests, and support
 the rescinding of all funds not already spent by these programs.” [p. 365]
-Gas Tax and User Fees
+
+<h3>Gas Tax and User Fees</h3>
+
 Project 2025: “It is vital to consider the role of user fees and other pricing innovations with regard
 to transportation infrastructure. Airport landing fees for aircraft, toll charges on roads and
 bridges, and per-gallon taxes on gasoline and diesel fuel are all examples of user charges that
@@ -6482,13 +6601,16 @@ consider the role of user fees and other pricing innovations with regard to tran
 Airport landing fees for aircraft, toll charges on roads and bridges, and per-gallon taxes on gasoline and
 diesel fuel are all examples of user charges that affect the decisions of transportation system users.”
 [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025: Funding for government infrastructure must come from either taxes or user fees.
 “Some mistakenly think that using a P3 would allow a road or bridge to be delivered without increases in
 tolls or taxes. It is important to remember that all funding for governmental infrastructure comes from
 either taxes or user fees. P3 financing can be used to make those funding sources more efficient, but it
 cannot replace the need for taxes or user fees to provide the funding for the project.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
-Grants
+
+<h3>Grants</h3>
+
 Project 2025 argued it would be more efficient for Congress to send transportation grants to 50
 states individually. “If funding must be federal, it would be more efficient for the U.S. Congress to send
 transportation grants to each of the 50 states and allow each state to purchase the transportation services
@@ -6497,13 +6619,13 @@ according to the needs of their citizens. States that rely more on automotive tr
 could use their funding to meet those needs.” [Department of Transportation, Project 2025, accessed
 6/24/24]
 
-125
 Project 2025 called for the abolishment of DOT’s discretionary grant-making processes and
 argued funding should be based on state distributions. “DOT’s discretionary grant-making processes
 should be abolished, and funding should be focused on formulaic distributions to the states, which know
 best their transportation needs and are incentivized to think of the long-term maintenance costs. At a bare
 minimum, the number of grants should be consolidated.” [Department of Transportation, Project 2025,
 accessed 6/24/24]
+
 Project 2025 on the Build America Bureau: “Should the BAB continue to exist and potentially
 disintermediate the private financing sector, it must maintain underwriting discipline and continue
 best practices of requiring rigorous financial modeling and cushion for repayment of loans in a
@@ -6513,13 +6635,15 @@ Should the BAB continue to exist and potentially disintermediate the private fin
 maintain underwriting discipline and continue best practices of requiring rigorous financial modeling and
 cushion for repayment of loans in a variety of economic scenarios.” [Department of Transportation,
 Project 2025, accessed 6/24/24]
+
 Project 2025 recommended BAB should ensure loan borrowers remain liable to ensure all funding
 is repaid no matter the economic circumstances. “l The BAB should ensure that these loans do not
 become grants in another form by maintaining the requirement that all project borrowers be rated at least
 investment grade by the major ratings agencies and that project sponsors remain liable to ensure that all
 financing is repaid, even in periods of financial stress and economic downturns.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
-Regulations
+
+<h3>Regulations</h3>
 Project 2025 pushed for the return of the Trump administration’s “rule on rules” approach to
 regulations. “DOT would also reduce unnecessary burdens by returning to the Trump Administration’s
 ‘rule on rules’ approach to regulations, implemented in late 2019 as RIN 2105-AE84.4 This rule
@@ -6527,7 +6651,8 @@ strengthened the Administration’s effort to remove outdated regulations, find 
 clarify that guidance documents are in fact guidance rather than mandatory impositions. The Biden
 Administration unwisely moved away from this reform, and the next Administration should revive it without
 delay.” [Department of Transportation, Project 2025, accessed 6/24/24]
-Safety
+
+<h3>Safety</h3>
 Project 2025 recommended NHTSA update vehicle standards and publish performance-based
 rules for automated vehicles. “NHTSA should work to remove regulatory barriers by focusing on
 updating vehicle standards as well as publishing performance-based rules for the operations of
@@ -6538,31 +6663,33 @@ of view, DOT has pivoted from a successful focus on the voluntary sharing of dat
 outcomes to adoption of a more compulsory and antagonistic approach to mandating data collection and
 publication through a Standing General Order related to automated vehicles. This needs to be reversed.”
 [Department of Transportation, Project 2025, accessed 6/24/24]
-EVs
+
+<h3>EVs</h3>
 Project 2025 argued the Biden administration’s push for increasing EV sales would work against
 national security interests, make the U.S. more dependent on China, and increase the vulnerability
 of the country’s power grid. “In addition, the Biden Administration’s efforts to accelerate EV sales by
 regulatory fiat work against the national security interests of the United States in contravention of
-
-126
 Congress’s goals under EPCA. Increasing the production of EVs will make the U.S. more dependent on
 China and other foreign countries that control the supply and processing of rare earth minerals that are
 needed for EV batteries. And the faster deployment of EVs will put a major strain on America’s vulnerable
 power grid, requiring large investments in critical infrastructure and a big boost in the nation’s electricity
 production, including from gas-fired and oil-fired power plants.” [Department of Transportation, Project
 2025, accessed 6/24/24]
-Emissions
+
+<h3>Emissions</h3>
 Project 2025 contended that the Biden fuel economy regulations would have no meaningful
 impact on global temperature trends in the long term. “In exchange for all of these harmful effects—
 on traffic safety, consumer choice, American jobs, the nation’s air quality, and U.S. national security—the
 Biden fuel economy regulations are predicted to have no meaningful effect on global temperature trends
 over the long term.8” [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended lowering fuel economy levels. “Reduce proposed fuel economy levels.
 The Administration should consider returning to the minimum average fuel economy levels specified by
 Congress for model year 2020 vehicles: levels aimed at achieving a fleet-wide average of 35 miles per
 gallon. Consideration should be given to maintaining the standards at those levels for the near term in
 order to promote the objectives laid out by Congress.” [Department of Transportation, Project 2025,
 accessed 6/24/24]
+
 Project 2025 argued for the revocation of the special waiver to California and should exercise its
 authority over CARB and invalidate any inconsistent fuel economy requirements imposed, such
 as the ban on sales of internal combustion engines. “Revoke the special waiver granted to California
@@ -6572,16 +6699,15 @@ circumstances may a state agency regulate fuel economy in place of DOT. The fede
 should therefore exercise its preemptive authority over CARB and take all steps necessary to invalidate
 any inconsistent fuel economy requirements imposed by CARB, including its ban on sales of internal
 combustion engines.” [Department of Transportation, Project 2025, accessed 6/24/24]
-Project 2025 recommended the next conservative administration should:
-●
-Seek to refocus the Federal Highway Administration on maintaining and improving the highway
-system.
-●
-Remove or reform rules and regulations that hamper state governments.
-●
-Reduce the amount of federal involvement in local infrastructure decisions.
+
+<h3>Project 2025 recommended the next conservative administration should:</h3>
+
+● Seek to refocus the Federal Highway Administration on maintaining and improving the highway system.
+● Remove or reform rules and regulations that hamper state governments.
+● Reduce the amount of federal involvement in local infrastructure decisions.
 [Department of Transportation, Project 2025, accessed 6/24/24]
-Airline Mergers and Foreign Ownership
+
+<h3>Airline Mergers and Foreign Ownership</h3>
 Project 2025 criticized the Biden administration for their opposition to the growth of major U.S.
 airlines, low-fare foreign airline competition, and joint ventures of smaller U.S. air carriers. “The
 current Administration’s policies are self-contradictory. In order to placate specific labor groups, the Biden
@@ -6589,6 +6715,7 @@ Administration not only opposes the growth of the major airlines, which would re
 travel, but also opposes measures—such as low-fare foreign competition and joint ventures of smaller
 U.S. carriers—that would increase competition.” [Department of Transportation, Project 2025, accessed
 6/24/24]
+
 Project 2025: The next administration should support joint-venture efforts between airlines, such
 as with Jet Blue and Spirit. “To achieve a more level playing field and increase options for the traveling
 public, the next Administration should: l Publicly indicate that a new Administration would support joint-
@@ -6596,7 +6723,6 @@ venture efforts by smaller carriers (for example, Jet Blue and Spirit) to achiev
 costs and compete more effectively with the larger carriers.” [Department of Transportation, Project 2025,
 accessed 6/24/24]
 
-127
 Project 2025 urged the review of foreign ownership and control limitations of airlines. “Review
 foreign ownership and control limitations and, if necessary, work with Congress to change existing
 statutes. Worldwide investors are providing access to capital to foreign airlines for innovations and new
@@ -6604,22 +6730,28 @@ equipment purchases that U.S. airlines cannot match. The U.S. should use the Com
 Investment in the United States (CFIUS) process to keep out nefarious foreign actors while allowing
 investment from investors in designated like-minded countries so long as U.S.-based investors maintain
 plurality ownership.” [Department of Transportation, Project 2025, accessed 6/24/24]
-FAA
+
+<h3>FAA</h3>
 Project 2025 called on the next administration to separate FAA from DOT or separate the Air
 Traffic Organization from the FAA. “To regain America’s global leadership in aviation, the next
 Administration should: l Separate the FAA from DOT or, at a minimum, separate the ATO from the FAA.”
 [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 wanted the FAA to operate more like a business. “l Require the FAA to operate more
 like a business. The FAA has not made good use of the unique authority it has been given in areas like
 personnel and acquisition.” [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 wanted to separate ATO from FAA and relocate their headquarters. “Separate the ATO
 from the FAA and relocate it to separate headquarters outside the District of Columbia.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025: “Shift from aviation user taxes to fees for air traffic services paid directly to the
 ATO.” [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025: “Allow the ATO to issue long-term revenue bonds for major projects.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
 Mass Transit Funding
+
 Project 2025 came out against the Capital Investment Grants program, which funded transit
 expansion “rather than maintaining or improving current facilities.” “The Capital Investment Grants
 (CIG) program is another example of Washington’s tendency to fund transit expansion rather than
@@ -6632,6 +6764,7 @@ uneconomical. The Trump Administration urged Congress to eliminate the CIG progr
 has strong support on Capitol Hill. At a minimum, a new conservative Administration should ensure that
 each CIG project meets sound economic standards and a rigorous cost-benefit analysis.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 called for a change to Section 10 © of the Urban Mass Transportation Act, which
 requires any agency receiving federal funds cannot reduce compensation for workers. “The next
 Administration can remove the largest obstacle to reforming labor costs. Section 10© of the Urban Mass
@@ -6642,7 +6775,6 @@ an interpretation that far exceeds the original statute. Returning to the origin
 agencies to adjust fringe benefits without fearing a federal lawsuit.” [Department of Transportation,
 Project 2025, accessed 6/24/24]
 
-128
 Project 2025 recommended moving “away from using the Highway Trust Fund to prop up mass
 transit.” “It is also vital to move away from using the Highway Trust Fund to prop up mass transit. The
 fund was driven into insolvency (and repeated bailouts) through decades of transfers to transit without
@@ -6650,14 +6782,16 @@ any increase in transit usage to show for it. With the federal government facing
 course of action would be to remove federal subsidies for transit spending, allowing states and localities
 to decide whether mass transit is a good investment for them.” [Department of Transportation, Project
 2025, accessed 6/24/24]
-Railroad
+
+<h3>Railroad</h3>
 Project 2025 argued the Federal Railroad Administration’s Notice of Proposed Rulemaking on
 crew size was not based on safety considerations and should be changed. “FRA’s Notice of
 Proposed Rulemaking (NPRM) on crew size is not based on safety considerations; it is designed to
 reduce flexibility by making it impossible for railroads to operate with crews of fewer than two in
 circumstances where there is no operational need for the second crew member.” [Department of
 Transportation, Project 2025, accessed 6/24/24]
-Maritime Administration
+
+<h3>Maritime Administration</h3>
 Project 2025 recommended the Maritime Administration be transferred to the Department of
 Defense or to DHS. “MARAD, including its subordinate Service Academy (the U.S. Merchant Marine
 Academy) should be transferred to the Department of Defense (if the Coast Guard is located there
@@ -6665,6 +6799,7 @@ because DHS has been eliminated) or to the Department of Homeland Security. In t
 agencies charged with oversight and regulation of the Maritime sector—MARAD and the United States
 Coast Guard—would be aligned under the same department where operational efficiencies could be
 realized more easily.” [Department of Transportation, Project 2025, accessed 6/24/24]
+
 Project 2025 recommended seriously considering repealing or significantly reforming the Jones
 Act. “Serious consideration should be given to repealing or substantially reforming the Jones Act,16
 which would require legislation. The economic costs of the Jones Act, which is notionally in place to
@@ -6673,32 +6808,35 @@ no liquified natural gas (LNG) can be shipped from Alaska to the lower 48 states
 U.S.-flagged ships that carry LNG. If there are genuine concerns about U.S. fleet capacity in the absence
 of the Jones Act, it would be possible to do so through an expansion of the Defense Reserve Fleet.”
 [Department of Transportation, Project 2025, accessed 6/24/24]
-Elections
-Top Lines
+
+<h3>Elections</h3>
+<h3>Top Lines</h3>
 ✔ Remove contribution limits for donations
 ✔ Kneecap the ability of the Federal Elections Commission from enforcing campaign finance FEC’s
 enforcement power
+
 Project 2025 called for a raise in contribution limits, saying they “serve no practical anti
 corruption purpose.” “Contribution limits should generally be much higher, as they hamstring
 candidates and parties while serving no practical anticorruption purpose. And a wide range of reporting
 requirements have not been indexed to inflation, clogging the public record and the FEC’s internal
 processes with small-dollar information of little use to the public.” [Federal Elections Commission, Project
 2025, accessed 6/24/24]
+
 Claims a major issue at the FEC is “overenforcement” of the law. “When taking any action related to
 the FEC, the President should keep in mind that, as former FEC Chairman Bradley Smith says, the
 ‘greater problem at the FEC has been overenforcement,’ not underenforcement as some critics falsely
-
-129
 allege.15 As he correctly concludes, the FEC’s enforcement efforts ‘place a substantial burden on small
 committees and campaigns, and are having a chilling effect on some political speech…squeezing the life
 out of low level, volunteer political activity.” [Federal Elections Commission, Project 2025, accessed
 6/24/24]
+
 Project 2025 called for the elimination of USCYBERCOM’s efforts to protect U.S. elections from
 bad actors in cyberspace including foreign actors. “End USCYBERCOM’s participation in federal
 efforts to ‘fortify’ U.S. elections to eliminate the perception that DOD is engaging in partisan politics.”
 [Department of Defense, Project 2025, accessed 6/24/24]
-Culture War
-Top Lines
+
+<h3>Culture War</h3>
+<h3>Top Lines</h3>
 ✔ Legislate and implement national extreme abortion bans
 ✔ Cut off federal funding from states with any pro-choice policies in place
 ✔ Removing all reproductive health and DEI related terms from federal laws and rules
@@ -6708,7 +6846,9 @@ Top Lines
 ✔ Ban pornography and punish those who produce it
 ✔ Invoke the Insurrection Act to shut down protests
 ✔ Infuse Christian Nationalism into the highest levels of government
-Anti-Abortion
+
+<h3>Anti-Abortion</h3>
+
 Project 2025: Conservatives in the next administration “should work with Congress to enact the
 most robust protections for the unborn that Congress will support while deploying existing
 federal powers to protect innocent life and vigorously complying with statutory bans on the
@@ -6724,6 +6864,7 @@ Conservatives should ardently pursue these pro-life and pro-family policies whil
 women who find themselves in immensely difficult and often tragic situations and the heroism of every
 choice to become a mother. Alternative options to abortion, especially adoption, should receive federal
 and state support.” [Foreword, Project 2025, accessed 6/24/24]
+
 Project 2025 called on Congress to pass a law that clarified that no employer would be required to
 provide accommodations or benefits for abortion. “Pass a law requiring equal (or greater) benefits for
 pro-life support for mothers and clarifying abortion exclusions. Congress should pass a law requiring that
@@ -6733,8 +6874,6 @@ required to provide any accommodations or benefits for abortion.” [Department 
 Agencies, Project 2025, accessed 6/24/24]
 Project 2025 wants Congress and DOL to clarify that the Employee Retirement Income Security
 Act “does not preempt states’ power to restrict abortion” or surrogacy. “Keep anti-life ‘benefits’ out
-
-130
 of benefit plans. Some benefits attorneys and pro-choice advocates have argued since the Supreme
 Court’s Dobbs v. Jackson Women’s Health Organization decision6 that the longstanding doctrine of
 Employee Retirement Income Security Act of 1974 (ERISA)7 preemption should block individual states’
@@ -6743,6 +6882,7 @@ coverage under employee-sponsored benefit plans. ERISA should not be allowed to 
 to protect innocent human life in the womb. Congress and DOL should clarify that ERISA does not
 preempt states’ power to restrict abortion, surrogacy, or other anti-life ‘benefits.’” [Department of Labor
 and Related Agencies, Project 2025, accessed 6/24/24]
+
 Project 2025 wants increased surveillance on abortion and the withholding of funds to states that
 do not report explicit details on abortion procedures and the mother. “Data Collection. The CDC’s
 abortion surveillance and maternity mortality reporting systems are woefully inadequate. CDC abortion
@@ -6757,7 +6897,8 @@ spontaneous miscarriage; treatments that incidentally result in the death of a c
 chemotherapy); stillbirths; and induced abortion. In addition, CDC should require monitoring and reporting
 for complications due to abortion and every instance of children being born alive after an abortion.”
 [Centers for Disease Control and Presention, Project 2025, page 466]
-Anti-Diversity
+
+<h3>Anti-Diversity</h3>
 Project 2025 recommends deleting terms such as “diversity, equity and inclusion”, “gender”,
 “reproductive health”, “reproductive rights”, among others in every federal rule, agency
 regulation, contract, grant, and regulation, arguing it deprives Americans of their First
@@ -6768,6 +6909,7 @@ gender awareness, gender-sensitive, abortion, reproductive health, reproductive 
 term used to deprive Americans of their First Amendment rights out of every federal rule, agency
 regulation, contract, grant, regulation, and piece of legislation that exists.” [Foreword, Project 2025,
 accessed 6/24/24]
+
 Project 2025: “The noxious tenets of ‘critical race theory’ and ‘gender ideology’ should be excised
 from curricula in every public school in the country.” “The noxious tenets of ‘critical race theory’ and
 ‘gender ideology’ should be excised from curricula in every public school in the country. These theories
@@ -6775,26 +6917,28 @@ poison our children, who are being taught on the one hand to affirm that the col
 fundamentally determines their identity and even their moral status while on the other they are taught to
 deny the very creatureliness that inheres in being human and consists in accepting the givenness of our
 nature as men or women.” [Foreword, Project 2025, accessed 6/24/24]
+
 Project 2025 recommends issuing an EO banning and for Congress to pass a law banning the
 federal government from using taxpayer money to fund CRT trainings. “Issue an executive order
 banning, and Congress should pass a law prohibiting the federal government from using taxpayer dollars
 to fund, all critical race theory training (CRT).” [Department of Labor and Related Agencies, Project 2025,
 accessed 6/24/24]
+
 Project 2025 recommends the enforcement of Title VII by DOJ and EEOC to prohibit racial
 classifications and quotas, including DEI trainings promoting CRT. “Direct DOJ and EEOC to
 enforce Title VII. The President should direct the Department of Justice and Equal Employment
 Opportunity Commission to enforce Title VII to prohibit racial classifications and quotas, including human-
-
-131
 resources classifications and DEI trainings that promote critical race theory.” [Department of Labor and
 Related Agencies, Project 2025, accessed 6/24/24]
-Anti-LGBTQIA+
+
+<h3>Anti-LGBTQIA+</h3>
 Project 2025: “Allowing parents or physicians to ‘reassign’ the sex of a minor is child abuse and
 must end.” “Allowing parents or physicians to ‘reassign’ the sex of a minor is child abuse and must end.
 For public institutions to use taxpayer dollars to declare the superiority or inferiority of certain races,
 sexes, and religions is a violation of the Constitution and civil rights law and cannot be tolerated by any
 government anywhere in the country.” [Foreword, Project 2025, accessed 6/24/24]
-Banning Pornography
+
+<h3>Banning Pornography</h3>
 Project 2025: “Pornography should be outlawed. The people who produce and distribute it should
 be imprisoned.” “Pornography, manifested today in the omnipresent propagation of transgender
 ideology and sexualization of children, for instance, is not a political Gordian knot inextricably binding up
@@ -6805,14 +6949,17 @@ should be outlawed. The people who produce and distribute it should be imprisone
 public librarians who purvey it should be classed as registered sex offenders. And telecommunications
 and technology firms that facilitate its spread should be shuttered.” [Foreword, Project 2025, accessed
 6/24/24]
-First Amendment
+
+<h3>First Amendment</h3>
 The Center for Renewing America wants Trump to invoke the Insurrection Act on day one of his
 administration to quash protests. “Others include invoking the Insurrection Act on Day One to quash
 protests and refusing to spend authorized congressional funds on unwanted projects, a practice banned
 by lawmakers in the Nixon era.” [Politico, 2/20/24]
-Christian Nationalism
+
+<h3>Christian Nationalism</h3>
 HEADLINE: “Trump allies prepare to infuse ‘Christian nationalism’ in second administration.”
 [Politico, 2/20/24]
+
 Russell Vought, Trump’s former director of OMB and the current president of The Center for
 Renewing America, is spearheading efforts “to infuse Christian nationalist ideas” into a potential
 second Trump administration. “An influential think tank close to Donald Trump is developing plans to
@@ -6822,21 +6969,23 @@ as Trump’s director of the Office of Management and Budget during his first te
 to him. Vought, who is frequently cited as a potential chief of staff in a second Trump White House, is
 president of The Center for Renewing America think tank, a leading group in a conservative consortium
 preparing for a second Trump term.” [Politico, 2/20/24]
+
 Center for Renewing America’s top priorities for a second Trump administration includes
 “Christian nationalism” as a bullet point. “One document drafted by CRA staff and fellows includes a
 list of top priorities for CRA in a second Trump term. ‘Christian nationalism’ is one of the bullet points.”
 [Politico, 2/20/24]
+
 Vought has close ties to Christian nationalist William Wolfe, who has advocated for overturning
 same-sex marriage, ending abortion, and reducing access to contraceptives. “Vought has a close
 affiliation with Christian nationalist William Wolfe, a former Trump administration official who has
-
-132
 advocated for overturning same-sex marriage, ending abortion and reducing access to contraceptives.”
 [Politico, 2/20/24]
+
 Project 2025 centers religion and marriage as the building blocks of a healthy society. “On what
 makes a good society: ‘These are the mediating institutions that serve as the building blocks of any
 healthy society. Marriage. Family. Work. Church. School. Volunteering.’” [Foreword, Project 2025,
 accessed 7/17/24]
+
 Project 2025 integrates and Prioritizes Faith Based Initiatives into “all of the Agency’s programs”.
 “The next conservative Administration must champion the core American value of religious freedom,
 which correlates significantly with poverty reduction, economic growth, and peace. It should train all
