@@ -225,7 +225,15 @@ during the Trump administration, serves as the director of the 2025 Presidential
 Spencer Chretien, former special assistant to the president and associate director of Presidential
 Personnel, serves as associate director of the project.” [About, Project 2025, accessed 6/24/24]
 The Advisory Board for Project 2025 includes:
-<ul>
+
+<div>
+<!-- ul { 
+  columns: 2;
+  -webkit-columns: 2;
+  -mox-columns: 2;
+  }
+-->
+<ul class="columns" data-columns="2">
   <li>● 1792 Exchange</li>
   <li>● American Accountability Foundation</li>
   <li>● AAPLOG</li>
@@ -236,15 +244,9 @@ The Advisory Board for Project 2025 includes:
   <li>● American Compass</li>
   <li>● American Cornerstone Institute</li>
   <li>● The American Conservative</li>
-  <li>●
-American Council of Trustees and
-Alumni</li>
-  <li>●
-American Family Association</li>
-  <li>●
-America First Legal (Stephen Miller’s
-group recently asked to be removed
-from board)</li>
+  <li>● American Council of Trustees and Alumni</li>
+  <li>● American Family Association</li>
+  <li>● America First Legal (Stephen Miller’s group recently asked to be removed from board)</li>
   <li>● American Juris Link</li>
   <li>● ALEC</li>
   <li>● The American Main Street Initiative</li>
