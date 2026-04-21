@@ -1,27 +1,30 @@
-# theNaziMind.md
-## Contents
-##### <i>Prologue</i>
-##### <i>Introduction</i>
-  1. Spreading Conspiracy Theories
-  2. Using Them and Us
-  3. Leading as a Hero
-  4. Corrupting Youth
-  5. Conniving with the Elite
-  6. Attacking Human Rights
-  7. Exploiting Faith
-  8. Valuing Enemies
-  9. Eliminating Resistance
-  10. Escalating Racism
-  11. Killing at a Distance
-  12. Stoking Fear
+<h1 id="theNaziMind" style="text-align:center">theNaziMind.md</h1>
+<h2 id="#toc">Contents</h2>
+<h5><i>Prologue</i></h5>
+<h5><i>Introduction</i></h5>
+<ol type="1">
+  <li>Spreading Conspiracy Theories</li>
+  <li>Using Them and Us</li>
+  <li>Leading as a Hero</li>
+  <li>Corrupting Youth</li>
+  <li>Conniving with the Elite</li>
+  <li>Attacking Human Rights</li>
+  <li>Exploiting Faith</li>
+  <li>Valuing Enemies</li>
+  <li>Eliminating Resistance</li>
+  <li>Escalating Racism</li>
+  <li>Killing at a Distance</li>
+  <li>Stoking Fear</li>
+</ol>
 
-##### <i>Postscript</i>
-##### <i>Twelve Warnings</i>
-##### <i>Acknowledgements</i>
-##### <i>Notes</i>
-##### <i>Index</i>
+<h5 id="#postscript"><i>Postscript</i></h5>
+<h5 id="#twelve-warnings"><i>Twelve Warnings</i></h5>
+<h5 id="#ackowledgements"><i>Acknowledgements</i></h5>
+<h5 id="#notes"><i>Notes</i></h5>
+<h5 id="#index"><i>Index</i></h5>
 
-# 1. Spreading Conspiracy Theories
+<h2 id="ch1">1. Spreading Conspiracy Theories</h2>
+
 <p>The Nazis thrived on conspiracy theories. And they used the same mental
 processes to convince themselves they were right as conspiracy theorists do
 today. The only difference is that the Nazis’ conspiracy theories
@@ -33,6 +36,7 @@ Hitler as Chancellor of Germany. So it is vital, if we want to penetrate the
 mentalities of the Nazis, that we understand how this First War – the Great
 War – became the prism through which many of them saw the world and
 Germany’s place within it.</p>
+
 <p>Part of the reason this war had such an effect, not just on the Nazis but
 on the whole German psyche, was because of the enormous swings in
 emotion it engendered. The ultimate humiliation of 1918 was made all the
@@ -40,8 +44,9 @@ harder to bear by the joyous anticipation many Germans had felt when war
 had been declared just four years before. The conspiracy theories that
 emerged towards the end of the war could not have had the power they
 did had it not been for this initial euphoria.</p>
+
 <blockquote>
-‘At last life had regained an ideal significance,’ wrote the left-wing
+<p>‘At last life had regained an ideal significance,’ wrote the left-wing
 writer Ernst Glaeser, describing the mood in August 1914. ‘The great
 virtues of humanity, fidelity, patriotism, readiness to die for an ideal …
 were triumphing over the trading and shopkeeping spirit … The war would
@@ -50,8 +55,9 @@ historian Friedrich Meinecke, from the opposite side of the political
 spectrum, heartily agreed with when he wrote after the war, ‘All the rifts
 which had hitherto existed among the German people, both among the
 bourgeoisie themselves and between the bourgeoisie and the working
-class, were suddenly healed in the face of the common danger.’2
+class, were suddenly healed in the face of the common danger.’2</p>
 </blockquote>
+
 <p>While the extent to which Germans embraced the war in the summer of
 1914 has been challenged and contextualized by scholars in recent years,3
 the fact remains that many people felt in the outbreak of hostilities that
