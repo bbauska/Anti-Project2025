@@ -3,7 +3,7 @@
 <h5><i>Prologue</i></h5>
 <h5><i>Introduction</i></h5>
 <ol type="1">
-  <li>Spreading Conspiracy Theories</li>
+  <li><a href="#ch1">Spreading Conspiracy Theories</a></li>
   <li>Using Them and Us</li>
   <li>Leading as a Hero</li>
   <li>Corrupting Youth</li>
