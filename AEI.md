@@ -1,9 +1,8 @@
-American Enterprise Institute – AEI (center-right organization)
+<h1>American Enterprise Institute – AEI (center-right organization)</h1>
 
-The Vast Right-Wing Conspiracy and How It Grew
-
-by Alan Ehrenhalt
-November 03, 2003
+<h2>The Vast Right-Wing Conspiracy and How It Grew</h2>
+<span>by Alan Ehrenhalt</span>
+<span>November 03, 2003</span>
 
 Category
 Well, thank you. Just to prove that every cloud has a silver lining, I was talking outside a little 
@@ -431,7 +430,8 @@ the time; he couldn’t get past that day. Bush made sure that it was September 
 when we woke up, until the 2002 election took place. And that is, we had just been terrorized and 
 we were in the midst of this anti-terror campaign. And he was out there fighting it. And it did work.
 
-I have to say that I got 2002 wrong for almost the whole year. I thought Enron and that stuff would make a bid difference, and it turned out not to.
+I have to say that I got 2002 wrong for almost the whole year. I thought Enron and that stuff would 
+make a bid difference, and it turned out not to.
 
 But ground hog day won’t work in 2004. So I think we would all agree on that. The hold is loosening. 
 It’s remarkable how little media saturation coverage there was this September 11th two-year anniversary 
@@ -504,7 +504,7 @@ right-wing conspiracy, I would hope that there would be a place for conservative
 
 Thank you.
 
-Alan Ehrenhalt is executive editor of Governing magazine.
+Alan Ehrenhalt is executive editor of Governing Magazine.
 
 Find a scholar by policy area:
 
