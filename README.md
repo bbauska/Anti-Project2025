@@ -1,14 +1,23 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>Science vs Project 2025</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>One Person's Response to Project 2025</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>None of DOGE's cuts were legitimate. NONE. It is all a lie. The government has the same
 employment rate as they did in 1975. 2.5 million then, 2.5 million now. So cuts are much worse
 than at any time in history. For the rich tax cuts is why.</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>USAid was helping the very poorest in the World. Helping in a very good way. First thing 
 cut by someone worth 350 billion dollars. He's a coward who had no clue what he was doing.</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>(the right-wing Koch Brothers/Heritage Foundation wish list since at least 1980)</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Republicans DEMONize, DOWNSize, then PRIVATize</h2>
-<H3>Fuck You!</H3>
-<p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for Leadership: The Conservative Promise'.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Fuck You!</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>What is Project 2025? According to project 2025 &amp; the heritage foundation, 'Mandate for 
+Leadership: The Conservative Promise'.
 Seriously? What the Fuck? Morons with money is their definition. True pieces of shit.</p>
 
 <p><a href="https://www.project2025.observer/">Project 2025 Observer</a></p>
@@ -24,8 +33,9 @@ smarter than Einstein.</p>
 <p>Another why. Why do many people believe a wealthy person at all? Much less, believe them because 
 they have wealth?</p>
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>What is Project 2025?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Who put these Trump ideas together? Heritage Foundation - king of liars & big corporate greed. 
 Just follow the fucking money. Koch brothers-funded. They define evil.
 The loose relationship between science (facts) and politics in America.</p>
@@ -41,15 +51,14 @@ government agency by agency to serve a conservative agenda.</p>
 of American life, from immigration and abortion rights, to free speech and racial justice. A number 
 of its recommendations rely on support from the executive branch and from Congress. Many other 
 initiatives are outright unconstitutional.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>What Are Some Plans/Proposals Included in Project 2025?</h2>
 <p>Project 2025 calls for hundreds of individual policy changes that will impact our constitutional 
 freedoms, and every aspect of our lives. Among them are:</p>
 <p><a href="https://www.project2025.observer/">Project 2025 Observer</a></p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Gutting Abortion Access</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan:</p>
 <ul>
   <li>Revive a 19th century law, the Comstock Act, to ban any abortion medications and materials 
@@ -57,27 +66,27 @@ freedoms, and every aspect of our lives. Among them are:</p>
   <li>Reversal of the FDA’s approval of mifepristone.</li>
 </ul>
 <p>Second Trump Administration Connections:</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Pam Bondi - <i>U.S. Attorney General</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Defended President Trump during his first impeachment trial and upheld Florida’s restrictive 
 abortion ban. Pam Bondi is an ardent Project 2025 supporter and was actively working to implement 
 Project 2025 before President Donald Trump nominated her for U.S. Attorney General.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Russell Vought - <i>Office of Management and Budget</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As director of the OMB, Vought will lead the implementation and enforcement of presidential policy 
 across the federal government. As a co-author of Project 2025, he advocated for abolishing the 
 Gender Policy Counsel to eliminate the promotion of abortion and comprehensive sex education.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Martin Makary - <i>FDA Commissioner</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Fox News Contributor who has pushed anti-abortion disinformation on the network and is associated 
 with Paragon Health Institute, a conservative think tank that advocates for decreased federal 
 health care spending.</p>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Mass Deportations</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan:</p>
 
 <ul>
@@ -88,15 +97,14 @@ health care spending.</p>
 </ul>
 
 <p>Second Trump Administration Connections:</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Tom Homan - <i>Border Czar</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Contributor, Project 2025</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Stephen Miller - <i>Deputy Chief of Staff</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Led an interest group that advised Project 2025 on policy.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Abusing Warrantless Surveillance</h2>
 <p>The Plan</p>
@@ -105,76 +113,78 @@ health care spending.</p>
   <li>Exploit the executive branch’s vast and unprecedented power to spy on Americans</li>
   <li>Dismantle guardrails that prevent the president from abusing the executive branch’s power</li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Second Trump Administration Connections:</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Russell Vought - <i>Office of Management and Budget</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As director of the OMB, Vought will lead the implementation and enforcement of presidential 
 policy across the federal government. Authored Project 2025’s chapter on the Executive Office 
 of the President of the United States and reportedly spearheaded the project’s playbook for 
 Trump’s first 180 days.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>John Ratcliffe - <i>CIA Director</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hasp pledged to keep and support the use of contested electronic intelligence gathering tools.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Unleashing Undue Force on Protestors</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan</p>
 <ul>
   <li>Violate the First Amendment to target journalists and protesters</li>
   <li>Dismantle guardrails that prevent the president from abusing executive power</li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Second Trump Administration Connections</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Russell Vought - <i>Office of Management and Budget</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As director of the OMB, Vought will lead the implementation and enforcement of presidential 
 policy across the federal government. Authored Project 2025’s chapter on the Executive Office 
 of the President of the United States and reportedly spearheaded the project’s playbook for 
 Trump’s first 180 days.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Severely Limiting Voting Access</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan</p>
 
 <p>Abuse executive power to interfere in our elections by criminalizing the voting process and 
 damaging fair representation.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Second Trump Administration Connections</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Pam Bondi - <i>Attorney General</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>As co-chair for the America First Policy Institute's Center for Law and Justice, she has 
 spearheaded efforts to restrict and disenfranchise voters. She led a multistate effort to 
 overturn a pro-voting Biden Administration executive order that would have expanded voting 
 access. Pam Bondi is an ardent Project 2025 supporter and was actively working to implement 
 Project 2025 before President Donald Trump nominated her for U.S. Attorney General.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Harmeet Dhillon - <i>Assistant Attorney General for the Civil Rights Division</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Has focused her career on dismantling civil rights, rather than protecting them. She has worked 
 to restrict voting access and helped fuel 2020 election lies and challenged the election results 
 on several occasions by using disinformation.</p>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Censoring Critical Discussions in Classrooms</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan</p>
 
 <p>Censor academic discussions about race, gender, and systemic oppression.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Second Trump Administration Connections</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Linda McMahon - <i>Secretary of Education</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Plans to send education back to the states and has actively championed anti-trans rhetoric. 
 She has promoted policies aligned with Project 2025 including promoting vouchers to drain 
 resources from public schools and send taxpayer money to private schools that permit 
 discrimination. Linda McMahon is the Chair of the Board and Chair of the Center for the 
 American Worker for the America First Policy Institute.</p>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Rolling Back Trans Rights</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Plan</p>
 <ul>
   <li>Remove federal nondiscrimination protections</li>
@@ -183,25 +193,25 @@ American Worker for the America First Policy Institute.</p>
   <li>Permit faith-based, taxpayer-funded contracts to exclude trans people from disaster assistance and 
     care for unaccompanied refugees</li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Second Trump Administration Connections</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Pam Bondi - <i>U.S. Attorney General</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Actively fought against the legalization of same-sex marriage as Florida Attorney General and 
 sought to uphold Flordia’s ban on marriage equality. Pam Bondi is an ardent Project 2025 supporter 
 and was actively working to implement Project 2025 before President Donald Trump nominated her for 
 U.S. Attorney General.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Linda McMahon - <i>Secretary of Education</i></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Chair of the board at the America First Policy Institute, a conservative think tank she launched 
 with former Trump administration officials. The non-profit is openly anti-trans, claims to combat 
 “radical gender ideology”, and actively campaigns against policies that support trans rights in 
 education.</p>
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>What are President-Elect Trump’s connections to Project 2025?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 was published by The Heritage Foundation, a conservative think tank with direct 
 ties to Trump’s first administration. Though Trump has falsely claimed he is not connected to 
 Project 2025, a recent report from CNN found at least 140 people who worked on Project 2025 
@@ -213,8 +223,9 @@ role as “institutionalizing Trumpism.”</p>
 Donald Trump in office after he lost the election. Heritage Foundation executive Mike Howell 
 called the 2024 election illegitimate before voting even began, claiming without evidence 
 that any result other than a Trump victory will have been the result of fraud.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>How is the ACLU Fighting Back?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>In a series of seven memos, the ACLU details the civil rights and civil liberties challenges 
 that a second Trump presidency will present and provides a roadmap for how we will fight to 
 protect and expand the freedom of all people. This includes:</p>
@@ -225,8 +236,10 @@ Working with Congress members to enact policy solutions to many of the most extr
 in Project 2025 and using Congress’s constitutional powers to provide oversight, investigate 
 wrongdoing, and defund executive branch policies that threaten our most fundamental rights 
 and freedoms.</p>
+
 <p>Working with state lawmakers around the country to enact proactive laws that protect people 
 from federal interference.</p>
+
 <p>Organizing in communities to educate the public about their rights, the harms of Project 
 2025, and what they can do to protect and expand our freedoms.</p>
 
