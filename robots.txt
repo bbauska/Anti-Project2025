@@ -1,5 +1,6 @@
 # robots.txt
 User-Agent: *
-Disallow: 
+Disallow: 01.SpreadingConspiracyTheories-theNaziMind.md, 02.UsingThemandUs-theNaziMind.md, ACLU.md, AEI.md, 
+  EPA.txt, anti.md, fight-back.md, peoplesGuide.md, prtect-money.md, rdme.md
 
 Sitemap: https://github.com/bbauska/Anti-Project2025
