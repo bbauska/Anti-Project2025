@@ -158,35 +158,39 @@ communities.
   release of 6 million metric tons of carbon dioxide equivalent without EPA pollution prevention 
   grant funding, and worsen measured air quality by 10% in communities that don’t currently meet NAAQS.
   - ● Increases public health risks and environmental injustice in communities. Eliminating OECA could
-cause 2,250 lung cancer deaths annually from unabated radon exposure, block technical
-assistance to 2,203 Tribal, small, rural, or underserved communities for drinking water and waste
-treatment improvements. It would also prevent an increase in inspections in areas of EJ concern
-to 45% in fiscal year 2022, 50% in FYs 2023 and 2024, and 55% in FYs 2025 and 2026, prevent
-the initiation of 45 proactive post-award civil rights compliance reviews, and would exacerbate
-discrimination issues in environmentally overburdened and underserved communities.
+  cause 2,250 lung cancer deaths annually from unabated radon exposure, block technical 
+  assistance to 2,203 Tribal, small, rural, or underserved communities for drinking water and waste 
+  treatment improvements. It would also prevent an increase in inspections in areas of EJ concern 
+  to 45% in fiscal year 2022, 50% in FYs 2023 and 2024, and 55% in FYs 2025 and 2026, prevent 
+  the initiation of 45 proactive post-award civil rights compliance reviews, and would exacerbate 
+  discrimination issues in environmentally overburdened and underserved communities.
+
 Project 2025 details “Immediate and consistent rejection of all EPA Office of Research and
 Development [ORD] and science activities that have not been authorized by Congress”
+
 This measure would prohibit the use of scientific determinations to drive regulatory, enforcement, and
 legal decisions in the EPA and federal government. Requiring the congressional review and authorization
 of ORD science activities—which span across 3 offices, 4 research centers, 6 research programs and
 countless partnerships across industries, academic institutions, trade associations, other agencies, state
 government and NGOs—would slow, if not completely hinder, the ORD’s ability to deliver accurate,
 relevant, science-based risk assessments to the American public.
-Consequences:
-● Harms economic, scientific, and educational progress. The plan would cut over $800 million for
-scientific research, technology, and education on the climate crisis and Earth’s natural systems.
-● Undercuts our nation’s ability to understand, prepare for, and build resilience to climate change
-and more extreme weather. The plan would stymie scientific advancements in climate change
-adaptation including carbon storage, fish population conservation, and wildfire and health impact
-studies. It would also threaten community preparedness for extreme weather and potentially gut
-tools and models that forecast the ecological and mortality impacts of regional ozone
-concentrations and pollution.
+
+### Consequences:
+  - ● Harms economic, scientific, and educational progress. The plan would cut over $800 million for 
+  scientific research, technology, and education on the climate crisis and Earth’s natural systems.
+  - ● Undercuts our nation’s ability to understand, prepare for, and build resilience to climate change
+  and more extreme weather. The plan would stymie scientific advancements in climate change 
+  adaptation including carbon storage, fish population conservation, and wildfire and health impact 
+  studies. It would also threaten community preparedness for extreme weather and potentially gut 
+  tools and models that forecast the ecological and mortality impacts of regional ozone concentrations 
+  and pollution.
+
 Threatens public health, safety, and the environment. The plan would halt or limit integrated efforts across
 the ORD to publicly release environmental and human health data, advance remediation and restoration
 of contaminated sites, support sustainable materials management, and waste recovery and reuse.
 
-
 Since 1964 Head Start has WORKS. Fuck-pres trump has ended that.
- Eliminates Head Start: Eliminates the Head Start program, which provides preschool
+
+Eliminates Head Start: Eliminates the Head Start program, which provides preschool
 education for over 1 million children in low-income families. Project 2025 also rejects
 universal child care.
