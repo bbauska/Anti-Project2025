@@ -1,6 +1,9 @@
 {
- "name": "Stop Project 2025",
- "icons": [
+  "name": "Stop Project 2025",
+  "short_name": "Stop P2025", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
